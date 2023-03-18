@@ -18,4 +18,5 @@ int main(void)
 		letter++;
 	}
 	putchar('\n');
+	return (0);
 }
