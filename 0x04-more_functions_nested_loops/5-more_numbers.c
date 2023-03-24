@@ -9,7 +9,7 @@ void more_numbers(void)
 {
 	int index;
 
-	for (index = 0; index <= 10; index++)
+	for (index = 0; index < 10; index++)
 	{
 		int i, j;
 		int tens = 0;
