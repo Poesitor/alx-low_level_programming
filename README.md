@@ -1,2 +1,1 @@
-# alx-low_level_programming
-A repository for practicing low level programming with alx
+A repository for learning and practicing low level programming
