@@ -15,7 +15,14 @@ int _atoi(char *s)
 		}
 		else if (s[i] >= 48 && s[i] <= 57)
 		{
-			num = num * 10 + (s[i] - '0');
+			if (num * 10 <= 2147483647)
+			{
+				num =  num * 10 + (s[i] - '0');
+			}
+			else
+			{
+				return (sign * num);
+			}
 
 			if (s[i + 1] < 48 || s[i + 1] > 57)
 			{
