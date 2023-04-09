@@ -12,24 +12,21 @@
  */
 int _strcmp(char *s1, char *s2)
 {
-	int i, val1, val2;
+	int i;
 
-	val1 = 0;
-	for (i = 0; s1[i] != '\0'; i++)
+	for (i = 0; s1[i] != '\0' && s2[i] != '\0'; i++)
 	{
-		val1 += s1[i];
+		if (s1[i] < s2[i])
+			return (-1);
+		if (s1[i] > s2[i])
+			return (1);
 	}
 
-	val2 = 0;
-	for (i = 0; s2[i] != '\0'; i++)
-	{
-		val2 += s2[i];
-	}
+	if (s1[i] == '\0' && s2[i] == '\0')
+		return (0);
+	else if (s1[i] == '\0')
+		return (-1);
 
-	if (val1 < val2)
-		return (-15);
-	if (val1 > val2)
-		return (15);
+	return (1);
 
-	return (0);
 }
