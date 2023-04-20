@@ -9,14 +9,39 @@
  */
 char *cap_string(char *str)
 {
-	char *p = str;
-	while (*p)
+	int i;
+
+	if (str[0] >= 'a' && str[0] <= 'z')
 	{
-		if ((*p == 32 || *p == 10 || *p == 9 || *p == 44 || *p == 59 || *p == 46 || *p == 33 || *p == 63 || *p == 34 || *p == 40 || *p == 41 || *p == 123 || *p == 125) && (*(p + 1) >= 97 && *(p + 1) <= 122))
-		{
-			*(p + 1) -= 32;
-		}
-		p++;
+		str[0] -= 32;
 	}
+	
+	for (i = 1; str[i] != '\0'; i++)
+	{
+		if (str[i] >= 'a' && str[i] <= 'z')
+		{
+			switch (str[i - 1])
+			{
+				case ' ':
+				case '\t':
+				case '\n':
+				case ',':
+				case ';':
+				case '.':
+				case '!':
+				case '?':
+				case '"':
+				case '{':
+				case '}':
+				case '(':
+				case ')':
+					str[i] -= 32;
+					break;
+				default:
+					break;
+			}
+		}
+	}
+
 	return (str);
 }
