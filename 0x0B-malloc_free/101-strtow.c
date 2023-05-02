@@ -30,19 +30,22 @@ int count_words(char *str)
 
 char **strtow(char *str)
 {
+	int num_words, i, j, k, word_len;
+	char **words;
+
 	if (str == NULL || str[0] == '\0')
 	{
 		return (NULL);
 	}
 
-	int num_words = count_words(str);
-	char **words = malloc((num_words + 1) * sizeof(char *));
+	num_words = count_words(str);
+	words = malloc((num_words + 1) * sizeof(char *));
 	if (words == NULL)
 	{
 		return (NULL);
 	}
 
-	int i, j, k, word_len;
+	i, j, k, word_len;
 
 	for (i = 0, j = 0; str[i] != '\0' && j < num_words; i++)
 	{
