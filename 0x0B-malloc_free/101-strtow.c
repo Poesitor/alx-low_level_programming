@@ -45,7 +45,6 @@ char **strtow(char *str)
 		return (NULL);
 	}
 
-	i, j, k, word_len;
 
 	for (i = 0, j = 0; str[i] != '\0' && j < num_words; i++)
 	{
