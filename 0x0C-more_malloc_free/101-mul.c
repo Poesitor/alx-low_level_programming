@@ -57,21 +57,23 @@ void print_number(int *digits, int len)
 
 int main(int argc, char **argv)
 {
+	int len_a, len_b, *a, *b, *result;
+
 	if (argc != 3)
 	{
 		print_error();
 	}
-	int len_a = strlen(argv[1]);
-	int len_b = strlen(argv[2]);
-	int *a = malloc(len_a * sizeof(int));
-	int *b = malloc(len_b * sizeof(int));
+	len_a = strlen(argv[1]);
+	len_b = strlen(argv[2]);
+	a = malloc(len_a * sizeof(int));
+	b = malloc(len_b * sizeof(int));
 	if (a == NULL || b == NULL)
 	{
 		print_error();
 	}
 	len_a = parse_number(argv[1], a, len_a);
 	len_b = parse_number(argv[2], b, len_b);
-	int *result = malloc((len_a + len_b) * sizeof(int));
+	result = malloc((len_a + len_b) * sizeof(int));
 	if (result == NULL)
 	{
 		print_error();
