@@ -1,2 +1,0 @@
-#!/bin/bash
-gcc $CFILE -S -masm=intel -o $(echo $CFILE | cut -d. -f1).s
