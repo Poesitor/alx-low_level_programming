@@ -1,1 +1,1 @@
-Learning to code with C
+a directory for learning about variables and loops
