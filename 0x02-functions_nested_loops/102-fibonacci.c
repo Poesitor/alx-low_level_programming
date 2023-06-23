@@ -12,7 +12,7 @@ int main(void)
 
 	prev1 = 0;
 	prev2 = 1;
-	for (i = 0; i < 50; i++)
+	for (i = 0; i <= 50; i++)
 	{
 		if (i == 0)
 			printf("%lu, ", prev1);
