@@ -1,1 +1,1 @@
-a directory for practicing debugging
+a directory for learning how to debug code
