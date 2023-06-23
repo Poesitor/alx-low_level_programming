@@ -22,7 +22,7 @@ int main(void)
 				printf("%lu, ", num);
 			}
 			else
-				printf("%lu", num);
+				printf("%lu\n", num);
 
 			prev1 = prev2;
 			prev2 = num;
