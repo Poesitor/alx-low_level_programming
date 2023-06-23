@@ -32,4 +32,5 @@ int main(void)
 			prev2 = num;
 		}
 	}
+	return (0);
 }
