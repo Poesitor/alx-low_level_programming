@@ -14,11 +14,7 @@ int main(void)
 	prev2 = 1;
 	for (i = 0; i <= 50; i++)
 	{
-		if (i == 0)
-			printf("%lu, ", prev1);
-		if (i == 1)
-			printf("%lu, ", prev2);
-		else
+		if (i != 0 && i != 1)
 		{
 			num = prev1 + prev2;
 			if (i != 50)
