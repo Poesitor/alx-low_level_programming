@@ -17,7 +17,7 @@ int main(void)
 		if (i != 0 && i != 1)
 		{
 			num = prev1 + prev2;
-			if (i != 50)
+			if (i != 51)
 			{
 				printf("%lu, ", num);
 			}
