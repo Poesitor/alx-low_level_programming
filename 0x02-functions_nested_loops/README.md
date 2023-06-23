@@ -1,1 +1,1 @@
-A directory for learning more about c functions and nested loops)
+a directory to learn about functions and nested loops
