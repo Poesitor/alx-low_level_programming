@@ -1,1 +1,1 @@
-even more practice with pointers and strings
+more practice on pointers, arrays and strings
