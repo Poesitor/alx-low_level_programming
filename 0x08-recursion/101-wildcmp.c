@@ -18,7 +18,7 @@ int wildcmp_helper(char *s1, char *s2)
 			return (1);
 		if (*s1 != '\0' && wildcmp_helper(s1 + 1, s2))
 			return (1);
-		return wildcmp_helper(s1, s2 + 1);
+		return (wildcmp_helper(s1, s2 + 1));
 	}
 	if (*s1 != *s2)
 		return (0);
@@ -28,7 +28,8 @@ int wildcmp_helper(char *s1, char *s2)
 }
 
 /**
- * wildcmp - compares two strings and checks if they can be considered identical
+ * wildcmp - compares two strings
+ * and checks if they can be considered identical
  *
  * @s1: The first string.
  * @s2: The second string.
