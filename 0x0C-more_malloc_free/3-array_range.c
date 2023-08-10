@@ -24,7 +24,7 @@ int *array_range(int min, int max)
 		return (NULL);
 
 	for (i = 0; i < num; i++)
-		dest[i] = max + i;
+		dest[i] = min + i;
 
 	return (dest);
 }
