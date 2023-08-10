@@ -24,7 +24,7 @@ char *argstostr(int ac, char **av)
 
 		charcount++;
 	}
-	str = malloc(sizeof(char) * charcount);
+	str = malloc(sizeof(char) * (charcount + 1));
 	if (str == NULL)
 		return (NULL);
 
