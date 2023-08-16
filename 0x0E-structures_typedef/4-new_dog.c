@@ -1,5 +1,7 @@
 #include "dog.h"
 #include <stdlib.h>
+#include <string.h>
+
 /**
  * new_dog - a function that creates a new dog struct
  *
@@ -27,14 +29,14 @@ dog_t *new_dog(char *name, float age, char *owner)
 		return (NULL);
 	}
 
-	new_dog->age = strdup(age);
-	if (new->age == NULL)
+	new_dog->owner = strdup(owner);
+	if (new_dog->owner == NULL)
 	{
-		free(new->name);
+		free(new_dog->name);
 		free(new_dog);
 		return (NULL);
 	}
-	new_dog->owner = owner;
+	new_dog->age = age;
 
 	return (new_dog);
 }
