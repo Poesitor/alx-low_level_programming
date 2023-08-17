@@ -6,7 +6,7 @@
  *
  * @array: a pointer to the array
  * @size: the size of the array
- * @cmp: the pointer to the function to perform the searching for an integer value
+ * @cmp: the pointer to the function to perform the searching
  *
  * Return: the index of the first element for which
  * the cmp function does not return 0.
