@@ -69,7 +69,7 @@ void print_all(const char * const format, ...)
 	va_list args;
 	int j;
 	int i = 0;
-	int separator = 0;
+	char *separator = "";
 
 	FormatMapping mappings[] = {
 		{"c", print_char},
@@ -82,19 +82,14 @@ void print_all(const char * const format, ...)
 
 	while (format[i] && format)
 	{
-		if (separator)
-		{
-			printf(", ");
-			separator = 0;
-		}
-
 		j = 0;
 		while (j < 4)
 		{
 			if (format[i] == *mappings[j].format)
 			{
+				printf("%s", separator);
 				mappings[j].format_print(args);
-				separator = 1;
+				separator = ", ";
 				break;
 			}
 			j++;
