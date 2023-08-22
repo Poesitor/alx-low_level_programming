@@ -1,0 +1,368 @@
+0000000000000000000000000000000000000000 db032404d10a2dd95bf564abedc059658d1bb2c3 Poesitor <Poesitor1@gmail.com> 1674635995 +0000	clone: from https://github.com/Bakarray/alx-low_level_programming.git
+db032404d10a2dd95bf564abedc059658d1bb2c3 31a0c6aabe0c762e88e11725e47d8858207eb1bc Poesitor <Poesitor1@gmail.com> 1674636571 +0000	commit: complete preprocessor task
+31a0c6aabe0c762e88e11725e47d8858207eb1bc 0000000000000000000000000000000000000000 Poesitor <Poesitor1@gmail.com> 1678977861 +0000	Branch: renamed refs/heads/main to refs/heads/main
+31a0c6aabe0c762e88e11725e47d8858207eb1bc 31a0c6aabe0c762e88e11725e47d8858207eb1bc Poesitor <Poesitor1@gmail.com> 1678977861 +0000	Branch: renamed refs/heads/main to refs/heads/main
+31a0c6aabe0c762e88e11725e47d8858207eb1bc 4ef8f03a706169b219c94e5742a33fa8db1e4665 Poesitor <Poesitor1@gmail.com> 1678990459 +0000	commit: solved task 0
+4ef8f03a706169b219c94e5742a33fa8db1e4665 ced42b7df63111400c1ebe2711b15c8b93ba9616 Poesitor <Poesitor1@gmail.com> 1678990490 +0000	commit: fix task 0
+ced42b7df63111400c1ebe2711b15c8b93ba9616 2486ae92f862434932dc3463b3a59713f4d532a5 Poesitor <Poesitor1@gmail.com> 1678991107 +0000	commit: make task 0 file executable
+2486ae92f862434932dc3463b3a59713f4d532a5 e34224af8aef7a8bde380d850cb9dcc69688d188 Poesitor <Poesitor1@gmail.com> 1678992052 +0000	commit: solve task 1
+e34224af8aef7a8bde380d850cb9dcc69688d188 ebbba6c8c074fc74d3ebcbc08454aadf62127f56 Poesitor <Poesitor1@gmail.com> 1678996746 +0000	commit: a script that generates assembly code
+ebbba6c8c074fc74d3ebcbc08454aadf62127f56 1af5b97223beaa8c1a687343b357255bc9670bcc Poesitor <Poesitor1@gmail.com> 1678996910 +0000	commit: solved task 3
+1af5b97223beaa8c1a687343b357255bc9670bcc ec48deb2e69f27299af858280c268075dea787de Poesitor <Poesitor1@gmail.com> 1678997675 +0000	commit: write c program with puts
+ec48deb2e69f27299af858280c268075dea787de 439d3dd604f0edc7313314ea865c771708321f33 Poesitor <Poesitor1@gmail.com> 1678997791 +0000	commit: follow betty style
+439d3dd604f0edc7313314ea865c771708321f33 dc7f95ca213bfb100b2dbfea27bb5310cd7faa6c Poesitor <Poesitor1@gmail.com> 1678998023 +0000	commit: print with printf
+dc7f95ca213bfb100b2dbfea27bb5310cd7faa6c 6fcb9e26f4ef48fa65372ab918c6d21f2c516769 Poesitor <Poesitor1@gmail.com> 1678998095 +0000	commit: follow betty style
+6fcb9e26f4ef48fa65372ab918c6d21f2c516769 076e8e6609642c9a2fcbfa4504da8ef0590c4d40 Poesitor <Poesitor1@gmail.com> 1678998196 +0000	commit: add description for function main
+076e8e6609642c9a2fcbfa4504da8ef0590c4d40 f339589830522b70d2b68cef27e41d3d1c500ce5 Poesitor <Poesitor1@gmail.com> 1679003577 +0000	commit: solve task 6
+f339589830522b70d2b68cef27e41d3d1c500ce5 0b911076a9bc215fab4957722857fb4986bd2b3d Poesitor <Poesitor1@gmail.com> 1679003696 +0000	commit: add new lines to printf outputs
+0b911076a9bc215fab4957722857fb4986bd2b3d d1653d935c8d8a532f1377efd690caef4745f0f4 Poesitor <Poesitor1@gmail.com> 1679004430 +0000	commit: generate intel style assembly code
+d1653d935c8d8a532f1377efd690caef4745f0f4 6679276067011830e90f7ab173e253c99ebfc457 Poesitor <Poesitor1@gmail.com> 1679006692 +0000	commit: solve task 103
+6679276067011830e90f7ab173e253c99ebfc457 f5bfec73a070990a62ff5a8ba7834a6b50cdb497 Poesitor <Poesitor1@gmail.com> 1679006956 +0000	commit: add documentation for main function
+f5bfec73a070990a62ff5a8ba7834a6b50cdb497 f9ce103ea009d77681897e3ccff1927999c47b49 Poesitor <Poesitor1@gmail.com> 1679151838 +0000	commit: a program that prints the sign of an integer
+f9ce103ea009d77681897e3ccff1927999c47b49 a256eba9985dcae74ca34cb0220912b178ffcbc0 Poesitor <Poesitor1@gmail.com> 1679151962 +0000	commit: fix typo in task 0
+a256eba9985dcae74ca34cb0220912b178ffcbc0 2c2fa0e5ff81e4a6aa04f2bd33c372ffc31ccf37 Poesitor <Poesitor1@gmail.com> 1679157073 +0000	commit: write a c program that prints the last digit
+2c2fa0e5ff81e4a6aa04f2bd33c372ffc31ccf37 1d48bbb81246809d1510bce1b41dd3eb3a83fa6e Poesitor <Poesitor1@gmail.com> 1679157466 +0000	commit: remove block that checks if last is -ve
+1d48bbb81246809d1510bce1b41dd3eb3a83fa6e fcb864f80c808d0711a7be758cfb4ca738052b32 Poesitor <Poesitor1@gmail.com> 1679172146 +0000	commit: Write a program that prints all letters
+fcb864f80c808d0711a7be758cfb4ca738052b32 aaec015ba8cb530b0fc5900221d5a31a29aa3452 Poesitor <Poesitor1@gmail.com> 1679172991 +0000	commit: a program to print upper and lower case letters
+aaec015ba8cb530b0fc5900221d5a31a29aa3452 883999d0661361d9da0822fc9e8f825d4012222c Poesitor <Poesitor1@gmail.com> 1679173399 +0000	commit: print all letters except e and q
+883999d0661361d9da0822fc9e8f825d4012222c 6e91ac99387cb59c4beb5b0bee765d2fe57b48e9 Poesitor <Poesitor1@gmail.com> 1679173583 +0000	commit: correct task 4 logical operator
+6e91ac99387cb59c4beb5b0bee765d2fe57b48e9 d1cb0d1010d22a26f1f1d14cf5b0f128a2c13ff7 Poesitor <Poesitor1@gmail.com> 1679173696 +0000	commit: add return statement to main
+d1cb0d1010d22a26f1f1d14cf5b0f128a2c13ff7 7cc2430de2c623fbfc0c5d08801d664a56d5737d Poesitor <Poesitor1@gmail.com> 1679174176 +0000	commit: print numbers 0-9
+7cc2430de2c623fbfc0c5d08801d664a56d5737d 2864ec70da0ad77084f8f7fd21611b5c6ed00261 Poesitor <Poesitor1@gmail.com> 1679178767 +0000	commit: print single digit numbers with putchar
+2864ec70da0ad77084f8f7fd21611b5c6ed00261 e08c4fc4b09d56ad51d2b46f1e86f21c20d82473 Poesitor <Poesitor1@gmail.com> 1679179236 +0000	commit: print letters in reverse
+e08c4fc4b09d56ad51d2b46f1e86f21c20d82473 fba1204b5cadf1ec0c053f75ee8f899d7cc1e015 Poesitor <Poesitor1@gmail.com> 1679180575 +0000	commit: print all hexadecimal numbers
+fba1204b5cadf1ec0c053f75ee8f899d7cc1e015 af8677b1fe2e727795e18f15bcd1e917b3c16ed9 Poesitor <Poesitor1@gmail.com> 1679181218 +0000	commit: print separated numbers
+af8677b1fe2e727795e18f15bcd1e917b3c16ed9 ca1afe1afa858b2ffbaa2abd158ee04797c8ae8d Poesitor <Poesitor1@gmail.com> 1679181312 +0000	commit: remove trailing white space
+ca1afe1afa858b2ffbaa2abd158ee04797c8ae8d 89fae863db74427016f1015aae94f3a068b4d491 Poesitor <Poesitor1@gmail.com> 1679291998 +0000	commit: print all combinations of two digits
+89fae863db74427016f1015aae94f3a068b4d491 92850eb35a09e1d0569d20f9f1204886a4c97f03 Poesitor <Poesitor1@gmail.com> 1679292822 +0000	commit: print all combinations of 3 digits with putchar
+92850eb35a09e1d0569d20f9f1204886a4c97f03 d9238ff663ee5c8ea8889d7d1e76418679982fea Poesitor <Poesitor1@gmail.com> 1679292911 +0000	commit: remove trailing whitespace
+d9238ff663ee5c8ea8889d7d1e76418679982fea b739fb4c2ec6f778c050eef9e2521af3bdef126f Poesitor <Poesitor1@gmail.com> 1679296838 +0000	commit: print all combinations of two two-digit numbers
+b739fb4c2ec6f778c050eef9e2521af3bdef126f eb6edaa257b53a52f4670772ce66eaab2611bc40 Poesitor <Poesitor1@gmail.com> 1679504363 +0000	commit: started working with functions and nested loops
+eb6edaa257b53a52f4670772ce66eaab2611bc40 6f570c284720f983e7a1211fbcbf54327afd90a5 Poesitor <Poesitor1@gmail.com> 1679504541 +0000	commit: fixed task 0
+6f570c284720f983e7a1211fbcbf54327afd90a5 827e895721a11c199a7175f15cc2652ebd24c33e Poesitor <Poesitor1@gmail.com> 1679505445 +0000	commit: solved task 2 by including the previous tasks :)
+827e895721a11c199a7175f15cc2652ebd24c33e 2cd0e72011bcedeb22e270f2e120965ccc8c7f30 Poesitor <Poesitor1@gmail.com> 1679506417 +0000	commit: solved task 3
+2cd0e72011bcedeb22e270f2e120965ccc8c7f30 d68c4cae3ee8af0a5d738c02360c58abc72fe898 Poesitor <Poesitor1@gmail.com> 1679506538 +0000	commit: added description for parameter in _islower
+d68c4cae3ee8af0a5d738c02360c58abc72fe898 e01d78a621ac06d636855a48de95c4ed2bd55ed7 Poesitor <Poesitor1@gmail.com> 1679521724 +0000	commit: solved task 4
+e01d78a621ac06d636855a48de95c4ed2bd55ed7 e750c5fd7615037b05928a02c3d0e2e4c2a2c95d Poesitor <Poesitor1@gmail.com> 1679521867 +0000	commit: added description for parameter c
+e750c5fd7615037b05928a02c3d0e2e4c2a2c95d 168d168693657df70754615370c0150d9f6da06a Poesitor <Poesitor1@gmail.com> 1679522860 +0000	commit: a function that checks the sign of a number
+168d168693657df70754615370c0150d9f6da06a 7a27fa51084057f23fd1f088108e99fb8cbcc7ee Poesitor <Poesitor1@gmail.com> 1679523713 +0000	commit: solved task 6
+7a27fa51084057f23fd1f088108e99fb8cbcc7ee afe2a0a01b3ed84b592900f5e71780a4167949e7 Poesitor <Poesitor1@gmail.com> 1679526205 +0000	commit: print last digit of a number with the help of the _abs function
+afe2a0a01b3ed84b592900f5e71780a4167949e7 f470a8ed43c611365c3f3d26cc6503c01bda69f8 Poesitor <Poesitor1@gmail.com> 1679527872 +0000	commit: write a function to print every minute of a day
+f470a8ed43c611365c3f3d26cc6503c01bda69f8 d3f1126d7302c0b2c528bddc5f87b620f3015fbc Poesitor <Poesitor1@gmail.com> 1679528513 +0000	commit: fix for loop in jack_bauer function
+d3f1126d7302c0b2c528bddc5f87b620f3015fbc 94abab083c1e9efd9049afdb7bf6f3c96a9278af Poesitor <Poesitor1@gmail.com> 1679531884 +0000	commit: write a program to print the 9 times table
+94abab083c1e9efd9049afdb7bf6f3c96a9278af 2df368b8d5a8fc3c9194f3ccf5a8d948fb3194b8 Poesitor <Poesitor1@gmail.com> 1679564125 +0000	commit: solved task 10
+2df368b8d5a8fc3c9194f3ccf5a8d948fb3194b8 2c4bacffd9f56a0589bd01675acf66f7c8514eca Poesitor <Poesitor1@gmail.com> 1679565429 +0000	commit: solved task 11
+2c4bacffd9f56a0589bd01675acf66f7c8514eca 659e1b2f773290a286ed1bfc6e9386c753391ecf Poesitor <Poesitor1@gmail.com> 1679588294 +0000	commit: solved task 0 of debugging
+659e1b2f773290a286ed1bfc6e9386c753391ecf c397a650afdd384ac79db0568d912ee2763afd2f Poesitor <Poesitor1@gmail.com> 1679588704 +0000	commit: debug an infinite loop code
+c397a650afdd384ac79db0568d912ee2763afd2f b7ad81c0a196cdb5a4fad35bc8fd468b9940b6f0 Poesitor <Poesitor1@gmail.com> 1679589096 +0000	commit: follow betty style
+b7ad81c0a196cdb5a4fad35bc8fd468b9940b6f0 fc4d2b00023c79f7679a273d1732b59b0b88f54b Poesitor <Poesitor1@gmail.com> 1679589828 +0000	commit: fixed largest number function
+fc4d2b00023c79f7679a273d1732b59b0b88f54b 8e41aabf1e95cf67fd5b75aa36329f0d3d7eb065 Poesitor <Poesitor1@gmail.com> 1679589993 +0000	commit: fixlargest number functiion
+8e41aabf1e95cf67fd5b75aa36329f0d3d7eb065 caaa45244cc5484e06f205176c1737806cad270c Poesitor <Poesitor1@gmail.com> 1679591964 +0000	commit: considered a case of same numbers
+caaa45244cc5484e06f205176c1737806cad270c 8feab458dc1f3b7508f87006d7f45cf5ed03d667 Poesitor <Poesitor1@gmail.com> 1679605707 +0000	commit: write a function to check for uppercase characters
+8feab458dc1f3b7508f87006d7f45cf5ed03d667 f5aa7cee434ba2f2c8e02636c27ddfe716be8b3b Poesitor <Poesitor1@gmail.com> 1679606596 +0000	commit: write a function that checks for a digit
+f5aa7cee434ba2f2c8e02636c27ddfe716be8b3b 42818d3506e099bff6c675baddb2070b227902a5 Poesitor <Poesitor1@gmail.com> 1679607151 +0000	commit: a function that multiplies two numbers
+42818d3506e099bff6c675baddb2070b227902a5 9863a27a4fdf93ae9849067646dac9ab384911d8 Poesitor <Poesitor1@gmail.com> 1679608844 +0000	commit: solved task 3
+9863a27a4fdf93ae9849067646dac9ab384911d8 4fdbbe044449a8cc26c3ff70a0a6c9975000fe7f Poesitor <Poesitor1@gmail.com> 1679609572 +0000	commit: print most of the digits
+4fdbbe044449a8cc26c3ff70a0a6c9975000fe7f 3e5924ccf4ec6c6cc6d0de3b4b30cacb97e8911c Poesitor <Poesitor1@gmail.com> 1679616039 +0000	commit: complete task 5
+3e5924ccf4ec6c6cc6d0de3b4b30cacb97e8911c cc55848f7c9458d6bad7769ade33570907479aaa Poesitor <Poesitor1@gmail.com> 1679616190 +0000	commit: print it ten times, not 11
+cc55848f7c9458d6bad7769ade33570907479aaa 9a29adb8edba6fb008e2a0f9ec4986cd8e004b92 Poesitor <Poesitor1@gmail.com> 1679638653 +0000	commit: determine how many days are left in a year
+9a29adb8edba6fb008e2a0f9ec4986cd8e004b92 a33711d8fd7b79c644217afdec3bb7511fa73de7 Poesitor <Poesitor1@gmail.com> 1679640275 +0000	commit: fix task 3
+a33711d8fd7b79c644217afdec3bb7511fa73de7 e1b458d8aa87c6b33c0715a3b6c4a9cf6b4f689a Poesitor <Poesitor1@gmail.com> 1679640980 +0000	commit: function that draws a straight line
+e1b458d8aa87c6b33c0715a3b6c4a9cf6b4f689a 5925d196cf1fdbac15a6fc8ce7da8d930e9c10aa Poesitor <Poesitor1@gmail.com> 1679641070 +0000	commit: add blank line after declarations
+5925d196cf1fdbac15a6fc8ce7da8d930e9c10aa 5757ab24ff6af5d8455c601bc2adb01321ea1e66 Poesitor <Poesitor1@gmail.com> 1679642764 +0000	commit: print diagonal line
+5757ab24ff6af5d8455c601bc2adb01321ea1e66 daff003d18baf6d59a1adf3da5cd09f629cf8b2e Poesitor <Poesitor1@gmail.com> 1679642924 +0000	commit: fix task 7
+daff003d18baf6d59a1adf3da5cd09f629cf8b2e 05a4104ed099c06086e94fd9a3f618d11ca59139 Poesitor <Poesitor1@gmail.com> 1679643468 +0000	commit: print a square of a given size
+05a4104ed099c06086e94fd9a3f618d11ca59139 8eafbc51c73374f1a2b4a19567bf5dab8e25b3c6 Poesitor <Poesitor1@gmail.com> 1679645537 +0000	commit: fizz buzz test
+8eafbc51c73374f1a2b4a19567bf5dab8e25b3c6 5eefc1381ab96f86e0f4f2704ddc75dcb89f405b Poesitor <Poesitor1@gmail.com> 1679645881 +0000	commit: fix task 9
+5eefc1381ab96f86e0f4f2704ddc75dcb89f405b d24aa77614c589351336d0787fc481c81e08512f Poesitor <Poesitor1@gmail.com> 1679646069 +0000	commit: remove trailing white space on lines 4 and 6
+d24aa77614c589351336d0787fc481c81e08512f fc503ea75b6f228157b3a969f616cdc8406f583e Poesitor <Poesitor1@gmail.com> 1679778685 +0000	commit: a function that prints n times table
+fc503ea75b6f228157b3a969f616cdc8406f583e 714c6dd7aec02c1b0777d7bf42d963091fba9f55 Poesitor <Poesitor1@gmail.com> 1679779228 +0000	commit: solved task 13
+714c6dd7aec02c1b0777d7bf42d963091fba9f55 84b6496a9fc442329815a67360be8daa2c059663 Poesitor <Poesitor1@gmail.com> 1679779600 +0000	commit: solved task 13
+84b6496a9fc442329815a67360be8daa2c059663 fccbe3db1ca4fb663672f627ebeebcdaab50c3f7 Poesitor <Poesitor1@gmail.com> 1679989125 +0000	commit: a function that changes the value of a variable in another function
+fccbe3db1ca4fb663672f627ebeebcdaab50c3f7 0f3f50814a9a6fa9b36371a3aac11a3b98feb6f3 Poesitor <Poesitor1@gmail.com> 1679989200 +0000	commit: add readme
+0f3f50814a9a6fa9b36371a3aac11a3b98feb6f3 344b661baf5b3744aff84c7a6be909e5e015d841 Poesitor <Poesitor1@gmail.com> 1679989617 +0000	commit: a function that swaps the value of two integers
+344b661baf5b3744aff84c7a6be909e5e015d841 65dd8ee8debfba7d510e97890dfcba98bf99a034 Poesitor <Poesitor1@gmail.com> 1679990186 +0000	commit: A function that prints the length of a string
+65dd8ee8debfba7d510e97890dfcba98bf99a034 458b9e54b11f7fd04cadd27d1bb45ac57a218ed0 Poesitor <Poesitor1@gmail.com> 1679990714 +0000	commit: write a function similar to puts
+458b9e54b11f7fd04cadd27d1bb45ac57a218ed0 23fb403ceb821bee95ba436802ce0f0c4650fe9e Poesitor <Poesitor1@gmail.com> 1679992161 +0000	commit: prints a string in reverse
+23fb403ceb821bee95ba436802ce0f0c4650fe9e 4cdbe58277332abb12845d8158679dd8eaaac35a Poesitor <Poesitor1@gmail.com> 1679992898 +0000	commit: end the print at the correct index
+4cdbe58277332abb12845d8158679dd8eaaac35a 1670f13171610545ebf9a287437174ddb59916fc Poesitor <Poesitor1@gmail.com> 1680023723 +0000	commit: a function that can reverse any string
+1670f13171610545ebf9a287437174ddb59916fc 1c9fc120271a7c34d1fbdba23f83a6b4b54608ed Poesitor <Poesitor1@gmail.com> 1680036749 +0000	commit: write a function that prints the odd indexed characters
+1c9fc120271a7c34d1fbdba23f83a6b4b54608ed 66a54c73e050de1655b9e48860d80c16ab21dfd5 Poesitor <Poesitor1@gmail.com> 1680133356 +0000	commit: a function that prints half of the string
+66a54c73e050de1655b9e48860d80c16ab21dfd5 3993f785eda535681ec8d2c18ec3a0305a357b25 Poesitor <Poesitor1@gmail.com> 1680155931 +0000	commit: print the last n characters of a string, where n = len-1 / 2
+3993f785eda535681ec8d2c18ec3a0305a357b25 fc4c7993aab17f1edaec6a92a5fa7c3dc3b59ef5 Poesitor <Poesitor1@gmail.com> 1680157251 +0000	commit: a function to print out the elements of an array
+fc4c7993aab17f1edaec6a92a5fa7c3dc3b59ef5 866bc86c49415c01b6487823177d764110aa4d6a Poesitor <Poesitor1@gmail.com> 1680157350 +0000	commit: put spaces around that '='
+866bc86c49415c01b6487823177d764110aa4d6a bdbfcce4f250028db0cb7ae53f4ba5a0055e9567 Poesitor <Poesitor1@gmail.com> 1680158501 +0000	commit: copy a string
+bdbfcce4f250028db0cb7ae53f4ba5a0055e9567 da4a84e2b712266f636f9281ea3bf0d7f93e8299 Poesitor <Poesitor1@gmail.com> 1680340660 +0000	commit: implemented the atoi function : )
+da4a84e2b712266f636f9281ea3bf0d7f93e8299 4bfd5b4192281d23cca1c2dd4ad09b7a109ae602 Poesitor <Poesitor1@gmail.com> 1680344809 +0000	commit: implement the strcat function
+4bfd5b4192281d23cca1c2dd4ad09b7a109ae602 4337da60fa0c79480d7906fb48075eab6aa980b0 Poesitor <Poesitor1@gmail.com> 1680846902 +0000	commit: added untracked files
+4337da60fa0c79480d7906fb48075eab6aa980b0 9f03e7cb3dc9b784a7c52abf043689007dda372f Poesitor <Poesitor1@gmail.com> 1680848126 +0000	commit: handle overflow in atoi
+9f03e7cb3dc9b784a7c52abf043689007dda372f c6f758442a602137a6d1ca405e671c0e5a7006ca Poesitor <Poesitor1@gmail.com> 1680848410 +0000	commit: follow betty style
+c6f758442a602137a6d1ca405e671c0e5a7006ca 9450eeb4e73da59b20fe187bb07f0d98c20cb2d5 Poesitor <Poesitor1@gmail.com> 1680851122 +0000	commit: solved task 1
+9450eeb4e73da59b20fe187bb07f0d98c20cb2d5 6360c84ea555c5f98ec3cefacde3e43214c8dfe5 Poesitor <Poesitor1@gmail.com> 1680851221 +0000	commit: follow betty style
+6360c84ea555c5f98ec3cefacde3e43214c8dfe5 fead94978141d43857571d74277968b228db9d37 Poesitor <Poesitor1@gmail.com> 1681039214 +0000	commit: redo task 1
+fead94978141d43857571d74277968b228db9d37 a9188b730576692dfce364b70f7cf431125f1360 Poesitor <Poesitor1@gmail.com> 1681040625 +0000	commit: a function that copies a string
+a9188b730576692dfce364b70f7cf431125f1360 035d496ed8551741298d346271def025f632fc05 Poesitor <Poesitor1@gmail.com> 1681042056 +0000	commit: a function that compares two strings
+035d496ed8551741298d346271def025f632fc05 854948789759f2c00dd0b8bbb0fced533f7852cc Poesitor <Poesitor1@gmail.com> 1681042138 +0000	commit: change the return values to 15 and -15
+854948789759f2c00dd0b8bbb0fced533f7852cc ffde1b94d5f2aac5e1cfd86deec955cd92b7a993 Poesitor <Poesitor1@gmail.com> 1681045050 +0000	commit: compare the strings alphabetically sorted
+ffde1b94d5f2aac5e1cfd86deec955cd92b7a993 f79310d1c43f04cc2665d917327eff7ee318b969 Poesitor <Poesitor1@gmail.com> 1681045136 +0000	commit: use +- 15 instead of +-1
+f79310d1c43f04cc2665d917327eff7ee318b969 69bb9162f46b5115e451330d5d6da570471a377c Poesitor <Poesitor1@gmail.com> 1681046296 +0000	commit: compare each character of the string
+69bb9162f46b5115e451330d5d6da570471a377c d08f304f06e66dd6ef4eb900096c8a7169224980 Poesitor <Poesitor1@gmail.com> 1681046538 +0000	commit: remove trailing white space
+d08f304f06e66dd6ef4eb900096c8a7169224980 2bab16f6d956c5a7d7f9c22dde13d50dd8dc4251 Poesitor <Poesitor1@gmail.com> 1681048182 +0000	commit: a function that reverses an array of integers
+2bab16f6d956c5a7d7f9c22dde13d50dd8dc4251 fe39b1a249167de936a1fe3f263393ad87dd90a1 Poesitor <Poesitor1@gmail.com> 1681049816 +0000	commit: a function to convert lowercase letters of a string to uppercase
+fe39b1a249167de936a1fe3f263393ad87dd90a1 5991f716ff49f6c49c5fd88b65801edb9b259369 Poesitor <Poesitor1@gmail.com> 1681059085 +0000	commit: a function that capitalizes all words of a string
+5991f716ff49f6c49c5fd88b65801edb9b259369 7b7d6cde76a0c056fb58081637fc80fb49019a73 Poesitor <Poesitor1@gmail.com> 1681953865 +0000	commit: use a switch statement and make sure to capitalize the first letter
+7b7d6cde76a0c056fb58081637fc80fb49019a73 57bdbe7ff289811c865fd84165e9bbab04eae34b Poesitor <Poesitor1@gmail.com> 1681953969 +0000	commit: remove trailing white spaces
+57bdbe7ff289811c865fd84165e9bbab04eae34b 9211167ba1615e89a5d7d94f65a46ba9947282d9 Poesitor <Poesitor1@gmail.com> 1681954776 +0000	commit: a function that encodes a string into 1337
+9211167ba1615e89a5d7d94f65a46ba9947282d9 285cd6a2b36686dc56fcbc7e233deaf13dbe6f0d Poesitor <Poesitor1@gmail.com> 1681955747 +0000	commit: function that encodes using rot13
+285cd6a2b36686dc56fcbc7e233deaf13dbe6f0d 9dd5f3731078dfb7d5c52ede85330bf8e793fcd1 Poesitor <Poesitor1@gmail.com> 1681956615 +0000	commit: a function that prints any number
+9dd5f3731078dfb7d5c52ede85330bf8e793fcd1 0e881718fbcdb855af7d5fb425642300b4abf975 Poesitor <Poesitor1@gmail.com> 1681956691 +0000	commit: change file name
+0e881718fbcdb855af7d5fb425642300b4abf975 64c4c4d4e7dfb990ba9e2c4878e056b15d6b58b4 Poesitor <Poesitor1@gmail.com> 1681956772 +0000	commit: add prototype to main.h
+64c4c4d4e7dfb990ba9e2c4878e056b15d6b58b4 f1641488f9cebebb3ac1773456bcdc2119b0a936 Poesitor <Poesitor1@gmail.com> 1681957958 +0000	commit: use a divisor to divide by multiples of 10
+f1641488f9cebebb3ac1773456bcdc2119b0a936 bebf1515bf9a205392852a9b04e8fd8f1a5cdf75 Poesitor <Poesitor1@gmail.com> 1681958228 +0000	commit: use unsigned int to handle large integers
+bebf1515bf9a205392852a9b04e8fd8f1a5cdf75 059eefbcb7cda7c0cd9040a4212cdc002d859f6a Poesitor <Poesitor1@gmail.com> 1681958581 +0000	commit: use pointer arithmetic to change a value
+059eefbcb7cda7c0cd9040a4212cdc002d859f6a b8555574ed45af256b257b35cad2b631e0386733 Poesitor <Poesitor1@gmail.com> 1681958771 +0000	commit: assume a is created in the memory location after n
+b8555574ed45af256b257b35cad2b631e0386733 347dba664ce1a87785fbd9e7a378fc50a65a6651 Poesitor <Poesitor1@gmail.com> 1681991130 +0000	commit: recreate the memset function
+347dba664ce1a87785fbd9e7a378fc50a65a6651 bbb83aa05bc5c8724f99736817f42f3bebf4fc97 Poesitor <Poesitor1@gmail.com> 1681991972 +0000	commit: a function that copies a memory area
+bbb83aa05bc5c8724f99736817f42f3bebf4fc97 1b1e02df7b8d0746fbec7df5bc8aa10d3a9f5f43 Poesitor <Poesitor1@gmail.com> 1681992469 +0000	commit: a function that locates a character in a string
+1b1e02df7b8d0746fbec7df5bc8aa10d3a9f5f43 e1980aa851aa27d4dac525cb03ed1d0f9c032bbd Poesitor <Poesitor1@gmail.com> 1681992569 +0000	commit: used NULL from stdio.h
+e1980aa851aa27d4dac525cb03ed1d0f9c032bbd 400190c6018bd8d069d74c41649e66ada99029df Poesitor <Poesitor1@gmail.com> 1681992887 +0000	commit: a simpler approach
+400190c6018bd8d069d74c41649e66ada99029df 082e8e362c8095e94f7574a999926455fa485d99 Poesitor <Poesitor1@gmail.com> 1681993413 +0000	commit: check if c is '\0'
+082e8e362c8095e94f7574a999926455fa485d99 eeda7a340da93e522cdfe960bfc14dac14f98936 Poesitor <Poesitor1@gmail.com> 1681993508 +0000	commit: put parenthesis on return statement
+eeda7a340da93e522cdfe960bfc14dac14f98936 d863831cc5e885ddb6e226cfb6ad73c24f70a7a7 Poesitor <Poesitor1@gmail.com> 1681996474 +0000	commit: a function that gets the length of a substring
+d863831cc5e885ddb6e226cfb6ad73c24f70a7a7 df22adf77ae522087904d9c10007b530ce4bb2fd Poesitor <Poesitor1@gmail.com> 1681997419 +0000	commit: a function that searches a string for any of a set of bytes
+df22adf77ae522087904d9c10007b530ce4bb2fd 692dddcdf2e47636df51d3e36a0eafbcff8161cf Poesitor <Poesitor1@gmail.com> 1682032694 +0000	commit: a sunction that locates a substring
+692dddcdf2e47636df51d3e36a0eafbcff8161cf 7fe7f69bfe8e4dd6f7745855edbf9141ae3e9733 Poesitor <Poesitor1@gmail.com> 1682033781 +0000	commit: a function that prints a chess board
+7fe7f69bfe8e4dd6f7745855edbf9141ae3e9733 efa12fbfe6b350275a56721ab36513edb86e2134 Poesitor <Poesitor1@gmail.com> 1682768866 +0000	commit: first task on recursion
+efa12fbfe6b350275a56721ab36513edb86e2134 e4b3e4ca7da904fc368d138dd0f403a94f0b5bab Poesitor <Poesitor1@gmail.com> 1682768951 +0000	commit: follow betty style
+e4b3e4ca7da904fc368d138dd0f403a94f0b5bab 6e3bd485d3e7025e0f4a11b1f105832530fd75aa Poesitor <Poesitor1@gmail.com> 1682769800 +0000	commit: use recursion to print a string in reverse
+6e3bd485d3e7025e0f4a11b1f105832530fd75aa e88ddca4a7f0f0709515751901a46abf9f9e4d23 Poesitor <Poesitor1@gmail.com> 1682769939 +0000	commit: remove block to print new line
+e88ddca4a7f0f0709515751901a46abf9f9e4d23 1978bbde0e9eef81906b55aa331666086e8d56f8 Poesitor <Poesitor1@gmail.com> 1682771213 +0000	commit: a program to get the length of a string recursively
+1978bbde0e9eef81906b55aa331666086e8d56f8 225f6b94841cfdd748e6ff1249cd2367a3e5b8db Poesitor <Poesitor1@gmail.com> 1682801963 +0000	commit: a function to get factorial recursively
+225f6b94841cfdd748e6ff1249cd2367a3e5b8db a0d6c710a2dd5f9e02a614319f5f21be571b9f4c Poesitor <Poesitor1@gmail.com> 1682804773 +0000	commit: a function that returns the value of x raised to the power of y
+a0d6c710a2dd5f9e02a614319f5f21be571b9f4c 454aeddbb4611852c2d840fd121da515a140cc14 Poesitor <Poesitor1@gmail.com> 1682808141 +0000	commit: a function that finds the square root using a helper function
+454aeddbb4611852c2d840fd121da515a140cc14 346841043d61b5c88643631033ca1499d95e1003 Poesitor <Poesitor1@gmail.com> 1682809250 +0000	commit: a function to find a prime number
+346841043d61b5c88643631033ca1499d95e1003 984aba2897660fd0bf44bcd1755c4f40863a5ae6 Poesitor <Poesitor1@gmail.com> 1682809373 +0000	commit: rename
+984aba2897660fd0bf44bcd1755c4f40863a5ae6 fe15cfd96fe644e49086ae6ce3a903e47b8636e2 Poesitor <Poesitor1@gmail.com> 1682810249 +0000	commit: checks if input is a palindrome
+fe15cfd96fe644e49086ae6ce3a903e47b8636e2 547ac4d875271b8b2014be24d0090577fac168a3 Poesitor <Poesitor1@gmail.com> 1682811744 +0000	commit: a wild compare function
+547ac4d875271b8b2014be24d0090577fac168a3 9b67339d15321e9d1b920481a838ec45e7c84be7 Poesitor <Poesitor1@gmail.com> 1682908278 +0000	commit: a program that prints its own name
+9b67339d15321e9d1b920481a838ec45e7c84be7 a8659f8345cb72dafec3e527548754704307266d Poesitor <Poesitor1@gmail.com> 1682908598 +0000	commit: a program that prints the number of arguments passed to it
+a8659f8345cb72dafec3e527548754704307266d c6c283ca535905ab67d633a7fde7e68aabceb833 Poesitor <Poesitor1@gmail.com> 1682909338 +0000	commit: a program that prints all the arguments it receives
+c6c283ca535905ab67d633a7fde7e68aabceb833 ca6b262bc31aea1d1f2dbfcef113333be4c6ae97 Poesitor <Poesitor1@gmail.com> 1682910127 +0000	commit: a program that multiplies two arguments
+ca6b262bc31aea1d1f2dbfcef113333be4c6ae97 730430ba027ecb1e69e9f8a388db452902e40d09 Poesitor <Poesitor1@gmail.com> 1682912168 +0000	commit: a program that adds numbers from function arguments
+730430ba027ecb1e69e9f8a388db452902e40d09 ef618c9f9aacd89643a0f777a2b3ea8f3ead22ee Poesitor <Poesitor1@gmail.com> 1682913552 +0000	commit: a program that prints the minimum number of coins to make change for an amount of money
+ef618c9f9aacd89643a0f777a2b3ea8f3ead22ee 2a1fae9aed25067c626bc432f2323fbedfce089b Poesitor <Poesitor1@gmail.com> 1682978298 +0000	commit: successfully created a static library :)
+2a1fae9aed25067c626bc432f2323fbedfce089b ff2aa54ed1a040b7631cef0cd56a98a4ec828765 Poesitor <Poesitor1@gmail.com> 1682979377 +0000	commit: wrote a script that makes a static library
+ff2aa54ed1a040b7631cef0cd56a98a4ec828765 cdd07d70858fded89212810b9fa521f1394260e4 Poesitor <Poesitor1@gmail.com> 1682979773 +0000	commit: fix typo to add object files to library
+cdd07d70858fded89212810b9fa521f1394260e4 1b9bd0f37669482d237506b3971f2cf1fc32b4d9 Poesitor <Poesitor1@gmail.com> 1683013924 +0000	commit: a function that creates an array of chars, initialized with a specific char
+1b9bd0f37669482d237506b3971f2cf1fc32b4d9 dcb38c2c29292269a245c367343f03a2b0ed8ec8 Poesitor <Poesitor1@gmail.com> 1683014005 +0000	commit: add blank line after declaration
+dcb38c2c29292269a245c367343f03a2b0ed8ec8 d229a5d1687b8001aba99a9c5913e9ad95dffa65 Poesitor <Poesitor1@gmail.com> 1683014097 +0000	commit: fix typo
+d229a5d1687b8001aba99a9c5913e9ad95dffa65 6f17d2c530d103ef772cc862c00ae72c23e73e2d Poesitor <Poesitor1@gmail.com> 1683014223 +0000	commit: put declarations first
+6f17d2c530d103ef772cc862c00ae72c23e73e2d 6dbee319cbbe9a68c8e2c8178cfff9c7d948f50a Poesitor <Poesitor1@gmail.com> 1683032479 +0000	commit: a function that copies a string in memory to a newly allocated memory area
+6dbee319cbbe9a68c8e2c8178cfff9c7d948f50a f4c8d6992363a4262f6c8e30452f02ceccc5000b Poesitor <Poesitor1@gmail.com> 1683033036 +0000	commit: a function that concatenates two strings using malloc to create the new memory area
+f4c8d6992363a4262f6c8e30452f02ceccc5000b 96358b5da29dcd320ce7c6418512cf9a658f7674 Poesitor <Poesitor1@gmail.com> 1683034515 +0000	commit: allocate memory for a 2-d array
+96358b5da29dcd320ce7c6418512cf9a658f7674 e62a5496a5f89ef6d609bb33cc0c131d28f28eaf Poesitor <Poesitor1@gmail.com> 1683035143 +0000	commit: a function to free the 2D array
+e62a5496a5f89ef6d609bb33cc0c131d28f28eaf f841251bcc3ee51445898f237f1ec9e82490bdaf Poesitor <Poesitor1@gmail.com> 1683035276 +0000	commit: add the stdlib library
+f841251bcc3ee51445898f237f1ec9e82490bdaf b8663335461ecbfa8a54f768cd60b2235c8917fd Poesitor <Poesitor1@gmail.com> 1683035965 +0000	commit: a function that concatenates all the arguments in a program
+b8663335461ecbfa8a54f768cd60b2235c8917fd 1abca1d9cbc7b2280645086aa3b415d7f5812064 Poesitor <Poesitor1@gmail.com> 1683037249 +0000	commit: changed code logic
+1abca1d9cbc7b2280645086aa3b415d7f5812064 ce55f96c04fdc5550157692aa94c52fc08e82745 Poesitor <Poesitor1@gmail.com> 1683037346 +0000	commit: fix typo
+ce55f96c04fdc5550157692aa94c52fc08e82745 4c1b8036ed5004ebe7ced2e668396b625e2a378e Poesitor <Poesitor1@gmail.com> 1683037377 +0000	commit: fix typo
+4c1b8036ed5004ebe7ced2e668396b625e2a378e 9556eb5463930450f705e51d759ccbeadb7daf46 Poesitor <Poesitor1@gmail.com> 1683038664 +0000	commit: first try 101
+9556eb5463930450f705e51d759ccbeadb7daf46 b263ee2409c0c52688a3420330a59c5d4798cac1 Poesitor <Poesitor1@gmail.com> 1683038793 +0000	commit: second try at 101
+b263ee2409c0c52688a3420330a59c5d4798cac1 0de8fab3c1858fdbcfa5e81ddad13c7174f4421e Poesitor <Poesitor1@gmail.com> 1683038867 +0000	commit: third try at 101
+0de8fab3c1858fdbcfa5e81ddad13c7174f4421e 1c020113b99b1c2c92c314311d340acb72e64483 Poesitor <Poesitor1@gmail.com> 1683039213 +0000	commit: gourth try at 101
+1c020113b99b1c2c92c314311d340acb72e64483 6af45f9668b75fd3d3d7cd4fbae8a7ab7f8bcef9 Poesitor <Poesitor1@gmail.com> 1683066688 +0000	commit: first use of exit status
+6af45f9668b75fd3d3d7cd4fbae8a7ab7f8bcef9 aa44d9a1fb95262b819df516c1fc02ca93eb2578 Poesitor <Poesitor1@gmail.com> 1683066760 +0000	commit: add readme file
+aa44d9a1fb95262b819df516c1fc02ca93eb2578 9b937a1b61fa7f45888a78de4765aa3cadc1e2fb Poesitor <Poesitor1@gmail.com> 1683066840 +0000	commit: add description for return function
+9b937a1b61fa7f45888a78de4765aa3cadc1e2fb c96900da260e424d58ec0037a78c035ff7516b07 Poesitor <Poesitor1@gmail.com> 1683067741 +0000	commit: a function that concatenates two strings
+c96900da260e424d58ec0037a78c035ff7516b07 6bf50c1c41d4a2bccc63033d30099cbad42cc8e4 Poesitor <Poesitor1@gmail.com> 1683068662 +0000	commit: a function that does like calloc :0
+6bf50c1c41d4a2bccc63033d30099cbad42cc8e4 163e06c8dd3aecac252230155e620dc259a83bf5 Poesitor <Poesitor1@gmail.com> 1683069365 +0000	commit: a function that creates an array of numbers ranging from min to max
+163e06c8dd3aecac252230155e620dc259a83bf5 7dea46e6c92a48aaea87aff28bf0bb33ec97c76f Poesitor <Poesitor1@gmail.com> 1683070797 +0000	commit: implementing the realloc function
+7dea46e6c92a48aaea87aff28bf0bb33ec97c76f 7d71a760f84c07de6d0271eebf6b23d9a101909e Poesitor <Poesitor1@gmail.com> 1683072376 +0000	commit: first try at 101
+7d71a760f84c07de6d0271eebf6b23d9a101909e e86294fcb6c10c824082f52c4e9cb5f2173fdcdd Poesitor <Poesitor1@gmail.com> 1683072498 +0000	commit: second try at 101
+e86294fcb6c10c824082f52c4e9cb5f2173fdcdd 936f5acce9145ea9501d133dccda58ed8ef7a126 Poesitor <Poesitor1@gmail.com> 1683072704 +0000	commit: third try at 101
+936f5acce9145ea9501d133dccda58ed8ef7a126 fb624f13f9a3ca1b23f7b0d29e5ed3b61245cefe Poesitor <Poesitor1@gmail.com> 1683136206 +0000	commit: a header file that defines a size macro
+fb624f13f9a3ca1b23f7b0d29e5ed3b61245cefe 6e8e0e6dc3f3da05fc236de64233b289e76ce2d5 Poesitor <Poesitor1@gmail.com> 1683136585 +0000	commit: a header file defining the pi macro
+6e8e0e6dc3f3da05fc236de64233b289e76ce2d5 1b12cddb3e35b70ac20fa4693bc0be8572a7e06d Poesitor <Poesitor1@gmail.com> 1683136877 +0000	commit: a function that prints the name of the file it was compiled from
+1b12cddb3e35b70ac20fa4693bc0be8572a7e06d 496697184feed1af724544edc72a919d50f354f5 Poesitor <Poesitor1@gmail.com> 1683136973 +0000	commit: include the format specifier
+496697184feed1af724544edc72a919d50f354f5 da67ee67ffea2d18c738f6922b05dd65b723bd20 Poesitor <Poesitor1@gmail.com> 1683138315 +0000	commit: function like macro ABS
+da67ee67ffea2d18c738f6922b05dd65b723bd20 656de739d61c9a6cfb4e45dabd29f5ef43fae578 Poesitor <Poesitor1@gmail.com> 1683138390 +0000	commit: rename file
+656de739d61c9a6cfb4e45dabd29f5ef43fae578 25d150e3c169970513b850756a43b88e39e23fa8 Poesitor <Poesitor1@gmail.com> 1683138553 +0000	commit: remove space after -ve sign
+25d150e3c169970513b850756a43b88e39e23fa8 f60a79839c75c7516fdf8198fda3d268dd8039ab Poesitor <Poesitor1@gmail.com> 1683139027 +0000	commit: a header file with a sum macro
+f60a79839c75c7516fdf8198fda3d268dd8039ab c13b513a17619d66b7495074679ca0eb39810901 Poesitor <Poesitor1@gmail.com> 1686127707 +0000	pull: Fast-forward
+c13b513a17619d66b7495074679ca0eb39810901 06816c79f626c266a49a234daad6a9372721af9d Poesitor <Poesitor1@gmail.com> 1687346044 +0000	commit: restart cause I forgot what i learnt
+06816c79f626c266a49a234daad6a9372721af9d a555e6c43f9dcf53e01c9ac6dd828bf14fce8bf8 Poesitor <Poesitor1@gmail.com> 1687346149 +0000	commit: add readme file
+a555e6c43f9dcf53e01c9ac6dd828bf14fce8bf8 0b436fb934b67713784025fdb5c84a84f7f4cd12 Poesitor <Poesitor1@gmail.com> 1687346355 +0000	commit: make file 2 lines long
+0b436fb934b67713784025fdb5c84a84f7f4cd12 c81065e94c73adf00cf9f8257dcc07ceb029f9df Poesitor <Poesitor1@gmail.com> 1687346543 +0000	commit: make file executable
+c81065e94c73adf00cf9f8257dcc07ceb029f9df 64604bc086aaa80706dcc59296dd96361727ce0d Poesitor <Poesitor1@gmail.com> 1687347307 +0000	commit: a c file that does not link
+64604bc086aaa80706dcc59296dd96361727ce0d ffc95cbe75b22033e17a5351587af99cb44603d2 Poesitor <Poesitor1@gmail.com> 1687349921 +0000	commit: no need to add the -o option
+ffc95cbe75b22033e17a5351587af99cb44603d2 9b816c42e05b570f634bc5f493930dfb999357de Poesitor <Poesitor1@gmail.com> 1687389817 +0000	commit: gcc option to generate assembly code
+9b816c42e05b570f634bc5f493930dfb999357de 1b85894093faafc0d83c2fe96e8d0125f586cbde Poesitor <Poesitor1@gmail.com> 1687389919 +0000	commit: full compilation into cisfun
+1b85894093faafc0d83c2fe96e8d0125f586cbde eb1b2f4f1407018f5339c29d7090f6207ecae1a3 Poesitor <Poesitor1@gmail.com> 1687390010 +0000	commit: fix typo
+eb1b2f4f1407018f5339c29d7090f6207ecae1a3 de97a619939ccaae17e300f15c29a520f4147186 Poesitor <Poesitor1@gmail.com> 1687390510 +0000	commit: c program that prints a given text
+de97a619939ccaae17e300f15c29a520f4147186 d97adddc4e66aed5511db66edeed9fcf5d6a0630 Poesitor <Poesitor1@gmail.com> 1687390665 +0000	commit: add leading quote
+d97adddc4e66aed5511db66edeed9fcf5d6a0630 d6d4eda1379b8041c0ee8d3dd223fd3982ee7265 Poesitor <Poesitor1@gmail.com> 1687391462 +0000	commit: function that prints with printf
+d6d4eda1379b8041c0ee8d3dd223fd3982ee7265 7a877220b7359f56ec2a50fe867f7fe6782d73ec Poesitor <Poesitor1@gmail.com> 1687392353 +0000	commit: c file to print the size of various types
+7a877220b7359f56ec2a50fe867f7fe6782d73ec f6964e51d35c7cac5cba7317dc44c1441465ae49 Poesitor <Poesitor1@gmail.com> 1687392725 +0000	commit: script to generate intel syntax assembly code
+f6964e51d35c7cac5cba7317dc44c1441465ae49 f00ea2b0a8c54102d11a4dbcd56887e6f63a5184 Poesitor <Poesitor1@gmail.com> 1687393632 +0000	commit: printing to stdout with the write function
+f00ea2b0a8c54102d11a4dbcd56887e6f63a5184 bbc2672aa5e116e4555528b7a03ec99333323f1f Poesitor <Poesitor1@gmail.com> 1687393805 +0000	commit: change number of bytes to 59
+bbc2672aa5e116e4555528b7a03ec99333323f1f e732ef431c2e3de3fe0bf3d1e2cc6f37b4adaed1 Poesitor <Poesitor1@gmail.com> 1687450065 +0000	commit: restart chapter and add readme file
+e732ef431c2e3de3fe0bf3d1e2cc6f37b4adaed1 a14e2e41e8bf14ab8a8d94a216ae30a7397d7e97 Poesitor <Poesitor1@gmail.com> 1687451536 +0000	commit: a function that detects the sign of a number
+a14e2e41e8bf14ab8a8d94a216ae30a7397d7e97 bd215ae94b61e40bae528595ee1239082ed025c2 Poesitor <Poesitor1@gmail.com> 1687453342 +0000	commit: write function to print the last digit of any number
+bd215ae94b61e40bae528595ee1239082ed025c2 ae373220a151739a3cb0c2328579858eafc8c442 Poesitor <Poesitor1@gmail.com> 1687453462 +0000	commit: fix typo
+ae373220a151739a3cb0c2328579858eafc8c442 651b8dc5d01e0f339b7c2c737c4535ca65735021 Poesitor <Poesitor1@gmail.com> 1687454081 +0000	commit: a function that prints the alphabet in lowercase, followed by a new line
+651b8dc5d01e0f339b7c2c737c4535ca65735021 f3060d63af7e581015f9a7565d7d5734528af323 Poesitor <Poesitor1@gmail.com> 1687454285 +0000	commit: a function that prints upper and lower cases
+f3060d63af7e581015f9a7565d7d5734528af323 5945278adec9afe3f00bd766716a806819b0899c Poesitor <Poesitor1@gmail.com> 1687454448 +0000	commit: print the alphabets, except q and e
+5945278adec9afe3f00bd766716a806819b0899c f7c4976c0adcce477688dfe15ef73d69c30d5877 Poesitor <Poesitor1@gmail.com> 1687454706 +0000	commit: function to print all single digit numbers of base 10
+f7c4976c0adcce477688dfe15ef73d69c30d5877 dadcdf093a2c50b6f134dbdb14acfbe8742cbb73 Poesitor <Poesitor1@gmail.com> 1687455039 +0000	commit: print all single digit numbers using putchar only
+dadcdf093a2c50b6f134dbdb14acfbe8742cbb73 14c77b136e571610fae5f627dcd48febff3be67c Poesitor <Poesitor1@gmail.com> 1687455159 +0000	commit: print lowercase alphabets in reverse
+14c77b136e571610fae5f627dcd48febff3be67c db81d4ae5d58a9e20e7909c5ebc101fc32fa018e Poesitor <Poesitor1@gmail.com> 1687455398 +0000	commit: function to print all the numbers of base 16
+db81d4ae5d58a9e20e7909c5ebc101fc32fa018e ba01bcb65fe056a52412bfe86c49e14a754149e3 Poesitor <Poesitor1@gmail.com> 1687468234 +0000	commit: prints all combinations of single digit numbers
+ba01bcb65fe056a52412bfe86c49e14a754149e3 16e1b594f68b95ec1f2872bf09f652fcad1dc3f2 Poesitor <Poesitor1@gmail.com> 1687470614 +0000	commit: print all possible different combinations of two digits
+16e1b594f68b95ec1f2872bf09f652fcad1dc3f2 08cf12c43227d99b361f832c2d4f868010106d50 Poesitor <Poesitor1@gmail.com> 1687498273 +0000	commit: function to print all combinations of three digits
+08cf12c43227d99b361f832c2d4f868010106d50 f1c152209adbfefce6cc82f28359dfa350809581 Poesitor <Poesitor1@gmail.com> 1687504632 +0000	commit: a program that uses _putchar to print '_putchar'
+f1c152209adbfefce6cc82f28359dfa350809581 75652d0b2a016e4e39eed9282b7ebabaaee68688 Poesitor <Poesitor1@gmail.com> 1687505603 +0000	commit: using putchar to print alphabets
+75652d0b2a016e4e39eed9282b7ebabaaee68688 cd3fa16a1bd4b6b49cf6135df84fcbdbca73636f Poesitor <Poesitor1@gmail.com> 1687509225 +0000	commit: follow betty guide
+cd3fa16a1bd4b6b49cf6135df84fcbdbca73636f 1e1a9c994a416fa6e575240a845cc563edaa81f1 Poesitor <Poesitor1@gmail.com> 1687509637 +0000	commit: print the alphabet x10 with _putchar
+1e1a9c994a416fa6e575240a845cc563edaa81f1 038072f47bb2da2fd4619f8016c82850509a173b Poesitor <Poesitor1@gmail.com> 1687511039 +0000	commit: a function to check if a character is lowercase
+038072f47bb2da2fd4619f8016c82850509a173b b9289c3991cf051dd0b074eb093cd7397794ae62 Poesitor <Poesitor1@gmail.com> 1687511646 +0000	commit: add function to check if character is an alphabet
+b9289c3991cf051dd0b074eb093cd7397794ae62 45fa5d937851030715772930c5173c81ae91d964 Poesitor <Poesitor1@gmail.com> 1687513167 +0000	commit: add a function that prints the sign of a number
+45fa5d937851030715772930c5173c81ae91d964 2eab28f58222fcdeed23fa6984c0a546f3abf182 Poesitor <Poesitor1@gmail.com> 1687513655 +0000	commit: add function to print the absolute value of an integer
+2eab28f58222fcdeed23fa6984c0a546f3abf182 2f07c306bda5d4ee887404a6c3a95cd2e0cb1883 Poesitor <Poesitor1@gmail.com> 1687515499 +0000	commit: add a function to print the last digit of a number
+2f07c306bda5d4ee887404a6c3a95cd2e0cb1883 5877242edd682498c9a5df2bca7a9d2c36cc75a6 Poesitor <Poesitor1@gmail.com> 1687517369 +0000	commit: print every minute of the day
+5877242edd682498c9a5df2bca7a9d2c36cc75a6 1ba51a22aca302d8a15c11f26e57016f97140543 Poesitor <Poesitor1@gmail.com> 1687532475 +0000	commit: add function that prints the 9 times table, starting with 0
+1ba51a22aca302d8a15c11f26e57016f97140543 d3ab045b982316f54ff6a9215d5a7d15abce967b Poesitor <Poesitor1@gmail.com> 1687533088 +0000	commit: a function to add two numbers
+d3ab045b982316f54ff6a9215d5a7d15abce967b dac6bfec7f9bd0f77c8834930c3221d55dea248b Poesitor <Poesitor1@gmail.com> 1687535140 +0000	commit: add function to print numbers from any number to 98
+dac6bfec7f9bd0f77c8834930c3221d55dea248b c9fc16690287e684c70d6db5f68e0140541c90f9 Poesitor <Poesitor1@gmail.com> 1687536732 +0000	commit: add function to print times table of any number
+c9fc16690287e684c70d6db5f68e0140541c90f9 a22e316c3c3a14f8b6582c039b45bd1559919fee Poesitor <Poesitor1@gmail.com> 1687538303 +0000	commit: add a function to print the sum of all multiples of 3 or 5 below 1024
+a22e316c3c3a14f8b6582c039b45bd1559919fee 4ffbe6ea86101330f8506054def63049c555cad0 Poesitor <Poesitor1@gmail.com> 1687539922 +0000	commit: add function to print the first 50 fibonacci numbers
+4ffbe6ea86101330f8506054def63049c555cad0 acebcac28f64ae41d59417dfe850558d27834f9a Poesitor <Poesitor1@gmail.com> 1687540966 +0000	commit: add return to non-void function
+acebcac28f64ae41d59417dfe850558d27834f9a 9689d5429ccb2fea4c4b02854fc238bb024c2e59 Poesitor <Poesitor1@gmail.com> 1687541041 +0000	commit: add one more fibonacci number
+9689d5429ccb2fea4c4b02854fc238bb024c2e59 4b1c0c480bf0e5dfe2e4b456076641919660528a Poesitor <Poesitor1@gmail.com> 1687541513 +0000	commit: start from 1 and 2
+4b1c0c480bf0e5dfe2e4b456076641919660528a 32259cea7d9510ad39b54fece0a2f1d0efac6bf6 Poesitor <Poesitor1@gmail.com> 1687541612 +0000	commit: add one more
+32259cea7d9510ad39b54fece0a2f1d0efac6bf6 e080cdd7c74aa36e0ad8c23fb5009a9e16f6a872 Poesitor <Poesitor1@gmail.com> 1687541711 +0000	commit: add the needed comma and space
+e080cdd7c74aa36e0ad8c23fb5009a9e16f6a872 f05245e46eec04ca1973ec26db1b862c7710e618 Poesitor <Poesitor1@gmail.com> 1687541786 +0000	commit: add new line at end
+f05245e46eec04ca1973ec26db1b862c7710e618 2bb899df914395802e654e7a8489a7ba9edaa584 Poesitor <Poesitor1@gmail.com> 1687546140 +0000	commit: first debug task
+2bb899df914395802e654e7a8489a7ba9edaa584 f15a2aa31eef3368bf24f15cd2b00c98251466a3 Poesitor <Poesitor1@gmail.com> 1687546240 +0000	commit: rename file
+f15a2aa31eef3368bf24f15cd2b00c98251466a3 10bd441b211fd685abe0f283a7a71dc3d9e20ab1 Poesitor <Poesitor1@gmail.com> 1687546560 +0000	commit: avoided infinite loop
+10bd441b211fd685abe0f283a7a71dc3d9e20ab1 8190fc357a8ccaa203dd09b2e19abde9ff1839fa Poesitor <Poesitor1@gmail.com> 1687546848 +0000	commit: betty style
+8190fc357a8ccaa203dd09b2e19abde9ff1839fa ca8fa20d92844e342017f976111fefa4eecef1df Poesitor <Poesitor1@gmail.com> 1687586199 +0000	commit: debug the largest number function
+ca8fa20d92844e342017f976111fefa4eecef1df cc7ac00ab48f01753de96e90a99f05533d9816f0 Poesitor <Poesitor1@gmail.com> 1687586459 +0000	commit: also check if number is equal to the other
+cc7ac00ab48f01753de96e90a99f05533d9816f0 72e8a03342bdbd742f0678d3b666484de6ea9f8a Poesitor <Poesitor1@gmail.com> 1687587757 +0000	commit: change the if statement to get leap year
+72e8a03342bdbd742f0678d3b666484de6ea9f8a 2b0d3df9f3503d6befc6cc1654fb1f1b40df0249 Poesitor <Poesitor1@gmail.com> 1687587841 +0000	commit: fix typo in discription
+2b0d3df9f3503d6befc6cc1654fb1f1b40df0249 585df4fa952027dc8c286e29bda9217875cd8dc5 Poesitor <Poesitor1@gmail.com> 1687588747 +0000	commit: add convert days function to header file
+585df4fa952027dc8c286e29bda9217875cd8dc5 da352f6aac398a883a40ac02eeb7bc264bc67022 Poesitor <Poesitor1@gmail.com> 1687602376 +0000	commit: add function to check if a character is uppercase
+da352f6aac398a883a40ac02eeb7bc264bc67022 1f933b79ea8cdae61d60499b4bc88135f3393e23 Poesitor <Poesitor1@gmail.com> 1687602679 +0000	commit: add function to check if a character is a digit
+1f933b79ea8cdae61d60499b4bc88135f3393e23 db0313ee234d9328de82f70b58486aeb3a633960 Poesitor <Poesitor1@gmail.com> 1687602924 +0000	commit: add function to multiply two integers
+db0313ee234d9328de82f70b58486aeb3a633960 40e306777bf2f2d9fe5f787d2311482cbf59f4a0 Poesitor <Poesitor1@gmail.com> 1687603263 +0000	commit: add function to print the numbers from 0 to 9
+40e306777bf2f2d9fe5f787d2311482cbf59f4a0 e2b85a42db969693123a4f9db259c465d31966f2 Poesitor <Poesitor1@gmail.com> 1687603579 +0000	commit: add function to print all numbers except 2 and 4
+e2b85a42db969693123a4f9db259c465d31966f2 d04baf922908160b3a86c536e6c156d380af5f0f Poesitor <Poesitor1@gmail.com> 1687604193 +0000	commit: add function to print the numbers 0 to 14
+d04baf922908160b3a86c536e6c156d380af5f0f e9b06d16c25e15b9c87b48f8ba41aa095a83f4e7 Poesitor <Poesitor1@gmail.com> 1687604411 +0000	commit: only use _putchar three times
+e9b06d16c25e15b9c87b48f8ba41aa095a83f4e7 d67d3dcf0fab9392cbcf08c1179ab02e96e6ec02 Poesitor <Poesitor1@gmail.com> 1687605233 +0000	commit: add a function to print lines in the terminal
+d67d3dcf0fab9392cbcf08c1179ab02e96e6ec02 fbf48f284cd49900632c7eafb9a1017842955729 Poesitor <Poesitor1@gmail.com> 1687605718 +0000	commit: add function to print a diagnal to the terminal
+fbf48f284cd49900632c7eafb9a1017842955729 9fc45bb8ffacc550d5f6d09d92d4f53404beda5b Poesitor <Poesitor1@gmail.com> 1687606182 +0000	commit: add function to print a square to the terminal
+9fc45bb8ffacc550d5f6d09d92d4f53404beda5b c991c9aa6103b0497204f7647a0b550cf89f8ba6 Poesitor <Poesitor1@gmail.com> 1687606442 +0000	commit: print newline of size is <= 0
+c991c9aa6103b0497204f7647a0b550cf89f8ba6 ca2766f433942f47a60009ca85029fd86c22362d Poesitor <Poesitor1@gmail.com> 1687607456 +0000	commit: add program to solve the fizz buzz test
+ca2766f433942f47a60009ca85029fd86c22362d 7a22fd31c92f2137eeb1b3e34d1e06363a6723c5 Poesitor <Poesitor1@gmail.com> 1687614359 +0000	commit: don't add space to the last one
+7a22fd31c92f2137eeb1b3e34d1e06363a6723c5 53c8e7634d8c3794bbcdec18ad39eda8a15f2637 Poesitor <Poesitor1@gmail.com> 1687615318 +0000	commit: add function to draw a triangle :)
+53c8e7634d8c3794bbcdec18ad39eda8a15f2637 2da3cacbe69536e1e23d328bcc8e5c6f9879fa83 Poesitor <Poesitor1@gmail.com> 1687672568 +0000	commit: a function to reset it's parameter's value
+2da3cacbe69536e1e23d328bcc8e5c6f9879fa83 ff4228722f90967a10b6cd844c71ae4f9be13f5d Poesitor <Poesitor1@gmail.com> 1687672867 +0000	commit: a function to swap the values of it's two parameters
+ff4228722f90967a10b6cd844c71ae4f9be13f5d 2433c57ed8ddc2ef224785d2796527517f650058 Poesitor <Poesitor1@gmail.com> 1687673182 +0000	commit: add a function to get the length of a string
+2433c57ed8ddc2ef224785d2796527517f650058 d21a8f03dfdcf99a9664ca581d963c1e88412e59 Poesitor <Poesitor1@gmail.com> 1687674051 +0000	commit: add a function to print a string
+d21a8f03dfdcf99a9664ca581d963c1e88412e59 c76377b9f1dfb3052c8452b98a71b5470523b44b Poesitor <Poesitor1@gmail.com> 1687674702 +0000	commit: add function to print a string in reverse
+c76377b9f1dfb3052c8452b98a71b5470523b44b 2d38bf096e4dc2ca52939d335f96d255baa3453d Poesitor <Poesitor1@gmail.com> 1687674846 +0000	commit: make function print exactly the number of characters
+2d38bf096e4dc2ca52939d335f96d255baa3453d 352c067fc9d4134bce6379d705bb434403db76fd Poesitor <Poesitor1@gmail.com> 1687675003 +0000	commit: start from strlen - 1
+352c067fc9d4134bce6379d705bb434403db76fd 9c922fa95622a898e63a2acfb011898fa16d9c14 Poesitor <Poesitor1@gmail.com> 1687683827 +0000	commit: a function that reverses a string
+9c922fa95622a898e63a2acfb011898fa16d9c14 1d51292c5c4aa4c15455b5d73516beec48ea42e6 Poesitor <Poesitor1@gmail.com> 1687684326 +0000	commit: add function to print every other character of a string
+1d51292c5c4aa4c15455b5d73516beec48ea42e6 1d5599846a8bee7bcea7b486e3237d13662755b6 Poesitor <Poesitor1@gmail.com> 1687685589 +0000	commit: add function to print half of a string
+1d5599846a8bee7bcea7b486e3237d13662755b6 1be58b13998024b3388cfa71cf0d4c74716859b7 Poesitor <Poesitor1@gmail.com> 1687686664 +0000	commit: add a function to print the elements of an array
+1be58b13998024b3388cfa71cf0d4c74716859b7 f9fe138ea1aed1246de9eca113aadff1faf335ab Poesitor <Poesitor1@gmail.com> 1687687524 +0000	commit: add function to copy a string to another location
+f9fe138ea1aed1246de9eca113aadff1faf335ab b654a7440bb8e9b24dea341484a09242dd15caec Poesitor <Poesitor1@gmail.com> 1687692113 +0000	commit: first try at atoi
+b654a7440bb8e9b24dea341484a09242dd15caec 6910140f9ddf296a694ee059701bd0179c4c7c81 Poesitor <Poesitor1@gmail.com> 1687692730 +0000	commit: first try at random password
+6910140f9ddf296a694ee059701bd0179c4c7c81 0b0fab55bcba493ee8a7ad3b1d0382fcd1bbd07e Poesitor <Poesitor1@gmail.com> 1687750103 +0000	commit: add function to concatenate two strings
+0b0fab55bcba493ee8a7ad3b1d0382fcd1bbd07e b081890f80fb9150d871a14636e3da19d59794fe Poesitor <Poesitor1@gmail.com> 1688210683 +0000	commit: created the puts function using recursion
+b081890f80fb9150d871a14636e3da19d59794fe 110d8cc54e5f729b9a758dc45b423858a6a6a814 Poesitor <Poesitor1@gmail.com> 1688211464 +0000	commit: a function that prints a string in reverse using recursion
+110d8cc54e5f729b9a758dc45b423858a6a6a814 f3f6eccd8624c8664d6b01f4b463a59330ed52db Poesitor <Poesitor1@gmail.com> 1688213049 +0000	commit: use recursion to get the length of a string
+f3f6eccd8624c8664d6b01f4b463a59330ed52db df67de0c3c3b54eb5adc309b05106cae0b59a80d Poesitor <Poesitor1@gmail.com> 1688213759 +0000	commit: a function to find the factorial of a number
+df67de0c3c3b54eb5adc309b05106cae0b59a80d f68a6e5291886b8f2a89204bc0f29c9c3a8d36a9 Poesitor <Poesitor1@gmail.com> 1688215073 +0000	commit: a function to get the exponent of a number
+f68a6e5291886b8f2a89204bc0f29c9c3a8d36a9 668c3748ec543ec89a1d14a88fa60e71d0cc715e Poesitor <Poesitor1@gmail.com> 1688218779 +0000	commit: recursively getting the square root of a value
+668c3748ec543ec89a1d14a88fa60e71d0cc715e 48a7d9d23c200525b09d6fb5bfab7dbeaa9c5802 Poesitor <Poesitor1@gmail.com> 1688221089 +0000	commit: check if a number is prime using recursion
+48a7d9d23c200525b09d6fb5bfab7dbeaa9c5802 961c0f63c481e1278107613417c5014ab5d6ce62 Poesitor <Poesitor1@gmail.com> 1688226612 +0000	commit: checks if a string is a palindrome recursively
+961c0f63c481e1278107613417c5014ab5d6ce62 087ae047676ac0793e0138805aacad64433138ab Poesitor <Poesitor1@gmail.com> 1688227358 +0000	commit: wildcmp
+087ae047676ac0793e0138805aacad64433138ab 57b1a7cf943f8b5d6be09c9bd743a66ebe08d16c Poesitor <Poesitor1@gmail.com> 1688227907 +0000	commit: second try
+57b1a7cf943f8b5d6be09c9bd743a66ebe08d16c cb86ac4265eefb27df4c6f5b79312154e22f9f46 Poesitor <Poesitor1@gmail.com> 1688228080 +0000	commit: third try at wildcmp
+cb86ac4265eefb27df4c6f5b79312154e22f9f46 6febdbb5090d873306d004e23b0438688f435e3f Poesitor <Poesitor1@gmail.com> 1688228262 +0000	commit: fourth try at wildcmp
+6febdbb5090d873306d004e23b0438688f435e3f ab8537e11b75f291369f78c4ca81c60e628e6e26 Poesitor <Poesitor1@gmail.com> 1688228345 +0000	commit: follow betty guide
+ab8537e11b75f291369f78c4ca81c60e628e6e26 bfc03b2546fdd654175ea61209bf0ac7e4038902 Poesitor <Poesitor1@gmail.com> 1688272039 +0000	commit: create a static library
+bfc03b2546fdd654175ea61209bf0ac7e4038902 5d93fa5566aed754040b7db563904a956d69ab9a Poesitor <Poesitor1@gmail.com> 1688272607 +0000	commit: create a script that creates a static library
+5d93fa5566aed754040b7db563904a956d69ab9a 5c3af6a5bc8090eb70829823eda5e6252a67fc1b Poesitor <Poesitor1@gmail.com> 1688316948 +0000	commit: a function that prints its own name
+5c3af6a5bc8090eb70829823eda5e6252a67fc1b 88b753d92e097d84d842cf6add101f5aa3cdcb7c Poesitor <Poesitor1@gmail.com> 1688319672 +0000	commit: a function that prints the number of arguments passed into it.
+88b753d92e097d84d842cf6add101f5aa3cdcb7c f6a9d8444f0b70f6667fbfe2cf16a179e904b4cc Poesitor <Poesitor1@gmail.com> 1688320005 +0000	commit: a program that prints all arguments it receives
+f6a9d8444f0b70f6667fbfe2cf16a179e904b4cc 2361adb5b6d28af31466b4433b417001df1d98d2 Poesitor <Poesitor1@gmail.com> 1688320493 +0000	commit: a function that multiplies the two arguments passed to it
+2361adb5b6d28af31466b4433b417001df1d98d2 d81ec85c551e2a7ea0e431ffdeebea5328b0bc98 Poesitor <Poesitor1@gmail.com> 1688321491 +0000	commit: function that prints the minimum number of coins to make change for an amount of money
+d81ec85c551e2a7ea0e431ffdeebea5328b0bc98 3591fb03a51294372867576d2c8b1acaee4987c3 Poesitor <Poesitor1@gmail.com> 1691148511 +0000	pull: Fast-forward
+3591fb03a51294372867576d2c8b1acaee4987c3 cb66a4155a1e620cdbc2e404a998946c5c2f16f1 Poesitor <Poesitor1@gmail.com> 1691487735 +0000	commit: first task - a functio that prints a string with recursion
+cb66a4155a1e620cdbc2e404a998946c5c2f16f1 29ea9039b63de81186c14e3303bfea9610adabf5 Poesitor <Poesitor1@gmail.com> 1691490780 +0000	commit: function that returns the length of a string
+29ea9039b63de81186c14e3303bfea9610adabf5 264933c7e5b5354a31f7bbaa7ed09f2380a6cc30 Poesitor <Poesitor1@gmail.com> 1691491485 +0000	commit: a function to get factorials using recursion
+264933c7e5b5354a31f7bbaa7ed09f2380a6cc30 d898fe4145bfa648b210c299f0ee012a0739da58 Poesitor <Poesitor1@gmail.com> 1691492978 +0000	commit: a function to raise a base by an exponent
+d898fe4145bfa648b210c299f0ee012a0739da58 67e5a4ed41e83b9ea11437bbcc61605222dc33d1 Poesitor <Poesitor1@gmail.com> 1691496610 +0000	commit: a function to check for a prime number
+67e5a4ed41e83b9ea11437bbcc61605222dc33d1 0a92bd4871f0de79840ed8a99de10628dff39dff Poesitor <Poesitor1@gmail.com> 1691497462 +0000	commit: a function to check a string is a palindrome
+0a92bd4871f0de79840ed8a99de10628dff39dff 4edc9c415b0779f32b819ce6c9dd53568d7e6464 Poesitor <Poesitor1@gmail.com> 1691498114 +0000	commit: a function that compares two strings to check if they are identical
+4edc9c415b0779f32b819ce6c9dd53568d7e6464 27cd169024780d54ef053847cf2ed97ba86fc42c Poesitor <Poesitor1@gmail.com> 1691515011 +0000	commit: first try at static libraries
+27cd169024780d54ef053847cf2ed97ba86fc42c dc8a12854bcd64be174a043c5376f2c2a7977ebb Poesitor <Poesitor1@gmail.com> 1691515482 +0000	commit: write a script that creates a static library
+dc8a12854bcd64be174a043c5376f2c2a7977ebb 8e3b6975291fab95648f1802e49e1a8b9ae30fd3 Poesitor <Poesitor1@gmail.com> 1691518467 +0000	commit: a program that prints its name
+8e3b6975291fab95648f1802e49e1a8b9ae30fd3 a098118d15a583dee9411c97b07623960f5c1f27 Poesitor <Poesitor1@gmail.com> 1691520697 +0000	commit: a function that prints the number of arguments passed to it
+a098118d15a583dee9411c97b07623960f5c1f27 960cb6e8fef81a8ef1f40c18439ef95fc35002da Poesitor <Poesitor1@gmail.com> 1691573527 +0000	commit: a program that prints all the arguments it receives
+960cb6e8fef81a8ef1f40c18439ef95fc35002da c3a4438a0363239af2451bd9367b0e154d15fc19 Poesitor <Poesitor1@gmail.com> 1691574360 +0000	commit: a program to multiply to arguments passed to it
+c3a4438a0363239af2451bd9367b0e154d15fc19 97d0108302f8964ae5abc4d71ab7a758a745610c Poesitor <Poesitor1@gmail.com> 1691576917 +0000	commit: a program that adds positive numbers
+97d0108302f8964ae5abc4d71ab7a758a745610c cc2e71767b6ef77c261e1c6ed001a1b48c6109e0 Poesitor <Poesitor1@gmail.com> 1691577683 +0000	commit: fix task 4 to check every character in each argument
+cc2e71767b6ef77c261e1c6ed001a1b48c6109e0 f50e8996c2feba6c70245fe5b4e8e6f6d05dcce9 Poesitor <Poesitor1@gmail.com> 1691577865 +0000	commit: fix task 4
+f50e8996c2feba6c70245fe5b4e8e6f6d05dcce9 b086c38d5f3ca84f3699a6fcf851e4acb2198c61 Poesitor <Poesitor1@gmail.com> 1691578564 +0000	commit: a program that prints the minimum number of coins to make change for an amount of money
+b086c38d5f3ca84f3699a6fcf851e4acb2198c61 f0c6a7d10e8a0ffb7730a11997eea31d33d7c326 Poesitor <Poesitor1@gmail.com> 1691588080 +0000	commit: a function that creates an array of chars with malloc
+f0c6a7d10e8a0ffb7730a11997eea31d33d7c326 1bf8fcbdd5e10548bfe82713482e33daf3c18bee Poesitor <Poesitor1@gmail.com> 1691589267 +0000	commit: a function that returns a pointer to a newly allocated space in memory
+1bf8fcbdd5e10548bfe82713482e33daf3c18bee 9953b342ac07dfb1d9d9de30d4774d3096d0cdcb Poesitor <Poesitor1@gmail.com> 1691589490 +0000	commit: add the right amount of memory
+9953b342ac07dfb1d9d9de30d4774d3096d0cdcb 8e2ed18e34cc6f9be40526f1eef0c7bab6e56205 Poesitor <Poesitor1@gmail.com> 1691591385 +0000	commit: a function that concatenates two strings with malloc
+8e2ed18e34cc6f9be40526f1eef0c7bab6e56205 043933ffb4fffbab15aea8aa0418132e77e5e926 Poesitor <Poesitor1@gmail.com> 1691658630 +0000	commit: fix task 2 to handle NULL input properly
+043933ffb4fffbab15aea8aa0418132e77e5e926 5329a034fc4573071c6744b073e5d980fe87af5a Poesitor <Poesitor1@gmail.com> 1691659312 +0000	commit: treat NULL like empty strings
+5329a034fc4573071c6744b073e5d980fe87af5a 65e88bbd00a8489575603c14dbaea26f10b8fedc Poesitor <Poesitor1@gmail.com> 1691662399 +0000	commit: a function that returns a pointer to a 2-D array
+65e88bbd00a8489575603c14dbaea26f10b8fedc 481f0153a2efee72e85029e6b8fc9526e1356176 Poesitor <Poesitor1@gmail.com> 1691664799 +0000	commit: second try at task 3
+481f0153a2efee72e85029e6b8fc9526e1356176 3932f3929a07330351619a0b3fe36cd3db4b3a39 Poesitor <Poesitor1@gmail.com> 1691665687 +0000	commit: a function to free up the memory allocated for a 2-d array
+3932f3929a07330351619a0b3fe36cd3db4b3a39 b56fda46e039578cc0f47c6e2df98438cec91b0c Poesitor <Poesitor1@gmail.com> 1691668468 +0000	commit: a function that concatenates the arguments of your program
+b56fda46e039578cc0f47c6e2df98438cec91b0c fd4a7efde02a6a645deafe1c70c62c5eadd4a007 Poesitor <Poesitor1@gmail.com> 1691668681 +0000	commit: add null character to end of string
+fd4a7efde02a6a645deafe1c70c62c5eadd4a007 893f7b90fb3ded484506412f9324c58ace897925 Poesitor <Poesitor1@gmail.com> 1691668918 +0000	commit: allocate the right ammount of memory to take care of the last null character
+893f7b90fb3ded484506412f9324c58ace897925 4c8035bfe5238a489e9ec84066ead192d7f7d158 Poesitor <Poesitor1@gmail.com> 1691676173 +0000	commit: a function that allocates memory using malloc
+4c8035bfe5238a489e9ec84066ead192d7f7d158 c0cf282af6751ebfb242acfabe25755426ab2ade Poesitor <Poesitor1@gmail.com> 1691676715 +0000	commit: fix errors with task 0
+c0cf282af6751ebfb242acfabe25755426ab2ade 049ef6dbb60f9f96fd28eb1298bce9a6da84de4c Poesitor <Poesitor1@gmail.com> 1691677291 +0000	commit: a function that concatenates two strings
+049ef6dbb60f9f96fd28eb1298bce9a6da84de4c e09d7c3fac95a14381af35b151e66aa2a1a33e57 Poesitor <Poesitor1@gmail.com> 1691697367 +0000	commit: a function that allocates memory for an array
+e09d7c3fac95a14381af35b151e66aa2a1a33e57 a5772495d9f2a1be1e3ac1772f6e921633869f30 Poesitor <Poesitor1@gmail.com> 1691698433 +0000	commit: initialize elements to 0
+a5772495d9f2a1be1e3ac1772f6e921633869f30 591739cf3deac921719b556086c0d95ddd32bfa9 Poesitor <Poesitor1@gmail.com> 1691701651 +0000	commit: a function that creates an array of integers
+591739cf3deac921719b556086c0d95ddd32bfa9 581b5ab43ec5f3008cecc253a7e0c31aaa039ba0 Poesitor <Poesitor1@gmail.com> 1691701842 +0000	commit: fix error in task 3
+581b5ab43ec5f3008cecc253a7e0c31aaa039ba0 bc6ace1da5aed5247f10125a4c2af0d60df2a7ec Poesitor <Poesitor1@gmail.com> 1691741341 +0000	commit: a function that reallocates a memory block using malloc and free
+bc6ace1da5aed5247f10125a4c2af0d60df2a7ec 97cfd171ecf04711de359dd2dc02dab6aa3bba42 Poesitor <Poesitor1@gmail.com> 1691741652 +0000	commit: fix task 100 to satisfy all requirements
+97cfd171ecf04711de359dd2dc02dab6aa3bba42 0aba2168073bca171e5452aecedb003ef4ebbe32 Poesitor <Poesitor1@gmail.com> 1692011518 +0000	commit: a macro named SIZE
+0aba2168073bca171e5452aecedb003ef4ebbe32 7436708af271404173a677c11e5079f3f9cacb50 Poesitor <Poesitor1@gmail.com> 1692011733 +0000	commit: a macro named PI
+7436708af271404173a677c11e5079f3f9cacb50 1f1d9cca6de3f92e2ac3ba8aa268bbc664700f5f Poesitor <Poesitor1@gmail.com> 1692012132 +0000	commit: a function that prints the name of the file it was compiled from
+1f1d9cca6de3f92e2ac3ba8aa268bbc664700f5f 7329d5ae68b529a7258ee624395e524616f935fe Poesitor <Poesitor1@gmail.com> 1692012517 +0000	commit: a macro named ABS
+7329d5ae68b529a7258ee624395e524616f935fe 413fbcedfae6c22f587c3f5518b22499736dafd7 Poesitor <Poesitor1@gmail.com> 1692012714 +0000	commit: a macro named SUM
+413fbcedfae6c22f587c3f5518b22499736dafd7 fc80a6a37e0d8256df8172d014ee0d43fe804faa Poesitor <Poesitor1@gmail.com> 1692013140 +0000	commit: used the include guard properly
+fc80a6a37e0d8256df8172d014ee0d43fe804faa 3119a69274c114a89bdb19b3e5bd633851f01946 Poesitor <Poesitor1@gmail.com> 1692013218 +0000	commit: proper include guard for task 3
+3119a69274c114a89bdb19b3e5bd633851f01946 9c26b305b58174a61872f5d70ec93b299103a130 Poesitor <Poesitor1@gmail.com> 1692013349 +0000	commit: add void argument to main
+9c26b305b58174a61872f5d70ec93b299103a130 21dd5c9510501f96db4f56f8f0eff93c5e8570e1 Poesitor <Poesitor1@gmail.com> 1692089415 +0000	commit: a header file that contains the dog struct
+21dd5c9510501f96db4f56f8f0eff93c5e8570e1 14d7509acf7563e92679cd1c5b7671282bb90f69 Poesitor <Poesitor1@gmail.com> 1692089534 +0000	commit: add double inclusion guard
+14d7509acf7563e92679cd1c5b7671282bb90f69 10a2132bb2e27008bf81b130727f2c9c35dd8cc0 Poesitor <Poesitor1@gmail.com> 1692090093 +0000	commit: a function that initializes a variable of type struct
+10a2132bb2e27008bf81b130727f2c9c35dd8cc0 59b650b5632890bf5e5746efb6caf770a133935c Poesitor <Poesitor1@gmail.com> 1692090502 +0000	commit: add a check for NULL
+59b650b5632890bf5e5746efb6caf770a133935c 67e874a10fef946ad2d4add3225dcf314ae9babc Poesitor <Poesitor1@gmail.com> 1692090591 +0000	commit: add stdlib.h
+67e874a10fef946ad2d4add3225dcf314ae9babc fd5353d7705e930bf0d759334fa5e74966cde533 Poesitor <Poesitor1@gmail.com> 1692091911 +0000	commit: add a check for null
+fd5353d7705e930bf0d759334fa5e74966cde533 903af557278292c22d3d729ded58846300380bd5 Poesitor <Poesitor1@gmail.com> 1692092353 +0000	commit: reformat ternary statement
+903af557278292c22d3d729ded58846300380bd5 d0b90f537af5d9a4cdc30a0c1ee438b689e2284f Poesitor <Poesitor1@gmail.com> 1692093236 +0000	commit: add alt name for struct dog
+d0b90f537af5d9a4cdc30a0c1ee438b689e2284f cd19ae5b9f27451978af012471a6a48855ccde6b Poesitor <Poesitor1@gmail.com> 1692143626 +0000	commit: a function that creates a new struct
+cd19ae5b9f27451978af012471a6a48855ccde6b 69515f325ffc2fdf306607f55d67a90aa6fd5c51 Poesitor <Poesitor1@gmail.com> 1692144320 +0000	commit: check if parameters are null or not
+69515f325ffc2fdf306607f55d67a90aa6fd5c51 83b66f35e59f4f87289eaee87fac0e49da5c1f18 Poesitor <Poesitor1@gmail.com> 1692145324 +0000	commit: point the strings to a new location
+83b66f35e59f4f87289eaee87fac0e49da5c1f18 cb05e76e0fe790178bf9f660c5cf2fd8623b3fdf Poesitor <Poesitor1@gmail.com> 1692145723 +0000	commit: add the right library
+cb05e76e0fe790178bf9f660c5cf2fd8623b3fdf 9e3b1fdaf934c307490a6fd62658172c7d35574c Poesitor <Poesitor1@gmail.com> 1692146299 +0000	commit: a function that frees a dog struct
+9e3b1fdaf934c307490a6fd62658172c7d35574c 32830037df798d20585e58599c2ef6b5399cc2e0 Poesitor <Poesitor1@gmail.com> 1692146427 +0000	commit: add prototype for task 5 to header file
+32830037df798d20585e58599c2ef6b5399cc2e0 c180d00a05d21c7a05d894cb7cbbfeb5a57ef525 Poesitor <Poesitor1@gmail.com> 1692279287 +0000	commit: a function that takes a pointer to another function then prints a name
+c180d00a05d21c7a05d894cb7cbbfeb5a57ef525 b8e5b734766de7c01d7af45f52a0a9eab4dab2de Poesitor <Poesitor1@gmail.com> 1692279430 +0000	commit: add proper documentation
+b8e5b734766de7c01d7af45f52a0a9eab4dab2de 26d962118fc3b2dbfa23adbe976b5f6d3850be32 Poesitor <Poesitor1@gmail.com> 1692279586 +0000	commit: check for null
+26d962118fc3b2dbfa23adbe976b5f6d3850be32 061736d370f7adfeaf7ad9945d5294740faad985 Poesitor <Poesitor1@gmail.com> 1692280678 +0000	commit: a function that applies a function to eachh element of an array
+061736d370f7adfeaf7ad9945d5294740faad985 723b540d13feddc4abb5c18e8bea61f38101ab2c Poesitor <Poesitor1@gmail.com> 1692282365 +0000	commit: a function that searches for an integer
+                                                                                                                                                           

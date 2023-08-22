@@ -21,6 +21,10 @@ int _atoi(char *s)
 	}
 	for (; s[i] != '\0'; i++)
 	{
+		if ((s[i] < 48 && s[i] > 57) && (s[i - 1] >= 48 && s[i - 1] <= 57))
+		{
+			result *= sign;
+		}
 		if (s[i] >= 48 && s[i] <= 57)
 		{
 			val = s[i] - '0';
@@ -28,6 +32,5 @@ int _atoi(char *s)
 			result += val;
 		}
 	}
-	result *= sign;
 	return (result);
 }
