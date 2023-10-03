@@ -53,7 +53,7 @@ void write_error(char *dest_file)
  */
 void read_into_buffer(int fd, char *buf, int size, char *from, int *total)
 {
-
+	char *temp;
 	ssize_t bytes_read = read(fd, buf, size);
 
 	if (bytes_read == -1)
@@ -63,9 +63,13 @@ void read_into_buffer(int fd, char *buf, int size, char *from, int *total)
 	{
 		while (bytes_read != 0)
 		{
-			buf = realloc(buf, sizeof(buf) + size);
-			if (buf == NULL)
+			temp = realloc(buf, (*total + size));
+			if (temp == NULL)
+			{
+				free(buf);
 				exit(101);
+			}
+			buf = temp;
 
 			*total += bytes_read;
 
