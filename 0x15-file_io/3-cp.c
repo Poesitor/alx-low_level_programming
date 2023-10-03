@@ -127,5 +127,6 @@ int main(int argc, char *argv[])
 		exit(100);
 	}
 
+	free(buffer);
 	return (1);
 }
