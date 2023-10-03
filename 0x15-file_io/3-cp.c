@@ -40,46 +40,6 @@ void write_error(char *dest_file)
 }
 
 /**
- * read_into_buffer - function to read from file descriptor into buffer
- *
- * @fd: the file descriptor to read from
- * @buf: The buffer to read to
- * @total: a pointer to the total number of bytes read
- * from fd_from.
- * @size: The initial size of the buffer
- * @from: name of file to copy from
- *
- * Return: void
- */
-void read_into_buffer(int fd, char *buf, int size, char *from, int *total)
-{
-	char *temp;
-	ssize_t bytes_read = read(fd, buf, size);
-
-	if (bytes_read == -1)
-		read_error(from);
-
-	if (bytes_read < size)
-	{
-		while (bytes_read != 0)
-		{
-			temp = realloc(buf, (*total + size));
-			if (temp == NULL)
-			{
-				free(buf);
-				exit(101);
-			}
-			buf = temp;
-
-			*total += bytes_read;
-
-			bytes_read = read(fd, buf, size);
-			if (bytes_read == -1)
-				read_error(from);
-		}
-	}
-}
-/**
  * main - copies the content of a file to another file
  *
  * @argc: argument count
@@ -89,16 +49,13 @@ void read_into_buffer(int fd, char *buf, int size, char *from, int *total)
  */
 int main(int argc, char *argv[])
 {
-	int fd_from, fd_to, total_bytes = 0;
-	int *total_bytes_read;
+	int fd_from, fd_to;
 	char *buffer;
-	ssize_t bytes_written;
+	ssize_t bytes_written, bytes_read;
 	const int size = 1024;
 
 	if (argc != 3)
 		usage_error(argv[0]);
-
-	total_bytes_read = &total_bytes;
 
 	fd_from = open(argv[1], O_RDONLY);
 	if (fd_from == -1)
@@ -119,11 +76,17 @@ int main(int argc, char *argv[])
 	if (buffer == NULL)
 		return (-1);
 
-	read_into_buffer(fd_from, buffer, size, argv[1], total_bytes_read);
-
-	bytes_written = write(fd_to, buffer, *total_bytes_read);
-	if (bytes_written == -1)
-		write_error(argv[2]);
+	bytes_read = read(fd_from, buffer, size);
+	if (bytes_read == -1)
+		read_error(argv[1]);
+	printf("Bytes read: %ld\n", bytes_read);
+	while (bytes_read > 0)
+	{
+		bytes_written = write(fd_to, buffer, bytes_read);
+		if (bytes_written == -1)
+			write_error(argv[2]);
+		bytes_read = read(fd_from, buffer, size);
+	}
 
 	if (close(fd_to) == -1 || close(fd_from) == -1)
 	{
