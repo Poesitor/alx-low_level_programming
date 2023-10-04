@@ -65,6 +65,7 @@ int main(int argc, char *argv[])
 	char *buffer;
 	int fd_from, fd_to, buf_size = 1024;
 	ssize_t bytes_written, bytes_read;
+	mode_t mode = S_IRUSR | S_IWUSR | S_IRGRP | S_IWGRP | S_IROTH;
 
 	if (argc != 3)
 		usage_error(argv[0]);
@@ -75,7 +76,7 @@ int main(int argc, char *argv[])
 	fd_from = open(argv[1], O_RDONLY);
 	if (fd_from == -1)
 		read_error(argv[1]);
-	fd_to = open(argv[2], O_WRONLY | O_TRUNC | O_CREAT, 0664);
+	fd_to = open(argv[2], O_WRONLY | O_TRUNC | O_CREAT, mode);
 	if (fd_to == -1)
 		write_error(argv[2]);
 
