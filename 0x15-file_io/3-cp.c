@@ -9,7 +9,7 @@
  */
 void read_error(char *file)
 {
-	dprintf(2, "Error: Can't read from file %s\n", file);
+	dprintf(STDERR_FILENO, "Error: Can't read from file %s\n", file);
 	exit(98);
 }
 
@@ -22,7 +22,7 @@ void read_error(char *file)
  */
 void usage_error(char *prog_name)
 {
-	dprintf(2, "Usage: %s file_from file_to\n", prog_name);
+	dprintf(STDERR_FILENO, "Usage: %s file_from file_to\n", prog_name);
 	exit(97);
 }
 
@@ -35,7 +35,7 @@ void usage_error(char *prog_name)
  */
 void write_error(char *file)
 {
-	dprintf(2, "Error: Can't write to %s\n", file);
+	dprintf(STDERR_FILENO, "Error: Can't write to %s\n", file);
 	exit(99);
 }
 
@@ -48,7 +48,7 @@ void write_error(char *file)
  */
 void close_error(int descriptor)
 {
-	dprintf(2, "Error: Can't close fd %d\n", descriptor);
+	dprintf(STDERR_FILENO, "Error: Can't close fd %d\n", descriptor);
 	exit(100);
 }
 
@@ -68,11 +68,13 @@ int main(int argc, char *argv[])
 
 	if (argc != 3)
 		usage_error(argv[0]);
-
+	if (argv[1] == NULL)
+		read_error(argv[1]);
+	if (argv[2] == NULL)
+		write_error(argv[2]);
 	fd_from = open(argv[1], O_RDONLY);
 	if (fd_from == -1)
 		read_error(argv[1]);
-
 	fd_to = open(argv[2], O_WRONLY | O_TRUNC | O_CREAT, 0664);
 	if (fd_to == -1)
 		write_error(argv[2]);
@@ -80,7 +82,6 @@ int main(int argc, char *argv[])
 	buffer = malloc(sizeof(char) * buf_size);
 	if (buffer == NULL)
 		return (-1);
-
 	while ((bytes_read = read(fd_from, buffer, buf_size)) > 0)
 	{
 		bytes_written = write(fd_to, buffer, bytes_read);
@@ -91,7 +92,6 @@ int main(int argc, char *argv[])
 		read_error(argv[1]);
 
 	free(buffer);
-
 	if (close(fd_from) == -1)
 		close_error(fd_from);
 	if (close(fd_to) == -1)
