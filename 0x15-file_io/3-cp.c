@@ -69,17 +69,22 @@ int main(int argc, char *argv[])
 	if (argc != 3)
 		usage_error(argv[0]);
 
-	if ((fd_from = open(argv[1], O_RDONLY)) == -1)
+	fd_from = open(argv[1], O_RDONLY);
+	if (fd_from == -1)
 		read_error(argv[1]);
-	if ((fd_to = open(argv[2], O_WRONLY | O_TRUNC | O_CREAT, 0664)) == -1)
+
+	fd_to = open(argv[2], O_WRONLY | O_TRUNC | O_CREAT, 0664);
+	if (fd_to == -1)
 		write_error(argv[2]);
 
-	if ((buffer = malloc(sizeof(char) * buf_size)) == NULL)
+	buffer = malloc(sizeof(char) * buf_size);
+	if (buffer == NULL)
 		return (-1);
 
 	while ((bytes_read = read(fd_from, buffer, buf_size)) > 0)
 	{
-		if ((bytes_written = write(fd_to, buffer, bytes_read)) == -1)
+		bytes_written = write(fd_to, buffer, bytes_read);
+		if (bytes_written == -1)
 			write_error(argv[2]);
 	}
 	if (bytes_read == -1)
