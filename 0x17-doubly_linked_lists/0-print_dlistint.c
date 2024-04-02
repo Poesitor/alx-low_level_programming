@@ -1,7 +1,7 @@
 #include "lists.h"
 /**
  * print_dlistint - Print all elememts of a list
- * @n: Pointer to the first element is a list
+ * @h: Pointer to the first element is a list
  * Return: The number of elements in the list
  */
 size_t print_dlistint(const dlistint_t *h)
