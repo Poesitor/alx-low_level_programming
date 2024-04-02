@@ -7,7 +7,7 @@
  * @n: Value to assign to new node
  * Return: Address of the new node, NULL if it fails
  */
-dlistint_t *insert_dnodeint_at_idx(dlistint_t **head, unsigned int idx, int n)
+dlistint_t *insert_dnodeint_at_index(dlistint_t **head, unsigned int idx, int n)
 {
 	unsigned int pos;
 	dlistint_t *new_node, *current, *prev;
