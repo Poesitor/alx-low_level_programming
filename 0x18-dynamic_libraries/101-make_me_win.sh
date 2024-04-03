@@ -1,4 +1,3 @@
 #!/bin/bash
-echo -e '#include <stdlib.h>\nint rand() { return 9; }' > /tmp/rand.c
-gcc -fPIC -shared -o /tmp/rand.so /tmp/rand.c -ldl
-export LD_PRELOAD=/tmp/rand.so
+wget -P /tmp https://github.com/Bakarray/alx-low_level_programming/raw/master/0x18-dynamic_libraries/nrandom.so
+export LD_PRELOAD=/tmp/nrandom.so
